@@ -1,0 +1,1501 @@
+EmployeeID,Age,Gender,MaritalStatus,Department,Education,YearsExperience,Salary,TrainingHours,ProjectsCompleted,Absenteeism,PerformanceScore
+EMP0001,60,Female,Single,Finance,Bachelor,40,90800.0,44.0,19,2,5
+EMP0002,50,Female,Divorced,Sales,High School,32,76700.0,47.0,18,3,5
+EMP0003,36,Female,Married,HR,Master,12,54100.0,,11,2,4
+EMP0004,64,Female,Married,Operations,Master,41,73500.0,47.0,18,5,5
+EMP0005,29,Female,Married,Operations,Bachelor,8,59100.0,34.0,6,5,4
+EMP0006,42,Female,Single,Sales,Master,19,69100.0,35.0,9,6,5
+EMP0007,60,Female,Single,Sales,Master,38,79800.0,41.0,20,4,5
+EMP0008,40,Female,Single,Operations,Bachelor,20,64700.0,40.0,10,6,4
+EMP0009,44,Female,Single,R&D,Bachelor,21,76200.0,41.0,15,1,5
+EMP0010,32,Female,Married,R&D,Bachelor,12,75200.0,36.0,8,0,5
+EMP0011,32,Female,Married,Sales,Bachelor,12,49000.0,,6,4,4
+EMP0012,45,Male,Married,Finance,Master,23,72400.0,38.0,9,2,4
+EMP0013,57,Female,Married,IT,Master,34,101200.0,39.0,16,7,5
+EMP0014,61,Female,Single,IT,PhD,36,99600.0,40.0,20,3,5
+EMP0015,45,Male,Married,Finance,Master,23,83300.0,32.0,12,1,5
+EMP0016,24,Female,Married,Finance,Bachelor,3,50300.0,45.0,7,1,4
+EMP0017,43,Male,Married,Sales,Bachelor,20,70400.0,40.0,9,4,4
+EMP0018,23,Male,Single,Finance,Master,0,61100.0,60.0,5,3,4
+EMP0019,45,Female,Married,R&D,Bachelor,22,68200.0,45.0,15,4,5
+EMP0020,51,Male,Married,Finance,Master,27,76100.0,34.0,13,3,5
+EMP0021,59,Female,Single,R&D,Master,37,90100.0,39.0,17,2,5
+EMP0022,23,Female,Single,Sales,Master,0,42900.0,60.0,1,0,4
+EMP0023,42,Male,Married,Sales,Master,17,63200.0,32.0,10,1,5
+EMP0024,54,Male,Married,R&D,High School,34,88600.0,42.0,17,3,5
+EMP0025,33,Male,Single,Sales,Master,9,56200.0,28.0,6,3,4
+EMP0026,43,Female,Married,Sales,Master,20,68200.0,44.0,12,3,5
+EMP0027,46,Female,Single,IT,Bachelor,25,85200.0,48.0,13,1,5
+EMP0028,48,Female,Married,HR,Master,24,65100.0,38.0,13,6,5
+EMP0029,63,Male,Single,Finance,Bachelor,43,84900.0,46.0,20,2,5
+EMP0030,49,Female,Married,IT,PhD,25,91300.0,44.0,14,2,5
+EMP0031,37,Male,Single,IT,High School,16,66900.0,36.0,12,5,4
+EMP0032,36,Female,Single,Finance,Bachelor,16,66800.0,46.0,11,4,4
+EMP0033,24,Male,Single,Operations,Bachelor,2,54500.0,55.0,5,6,3
+EMP0034,58,Female,Single,R&D,Master,34,86000.0,39.0,17,2,5
+EMP0035,28,Male,Married,R&D,Bachelor,6,60200.0,39.0,8,8,3
+EMP0036,42,Female,Single,HR,Bachelor,22,65200.0,39.0,12,5,5
+EMP0037,30,Male,Married,Operations,Bachelor,7,52400.0,49.0,12,7,4
+EMP0038,60,Female,Single,Operations,PhD,36,82500.0,56.0,16,9,5
+EMP0039,39,Female,Single,R&D,Bachelor,16,72000.0,42.0,13,2,4
+EMP0040,25,Male,Single,Sales,Bachelor,5,41100.0,54.0,7,2,4
+EMP0041,46,Female,Single,Finance,Master,22,79500.0,45.0,11,3,5
+EMP0042,35,Female,Single,Sales,Bachelor,13,69800.0,35.0,9,6,3
+EMP0043,30,Male,Married,Finance,PhD,5,68400.0,41.0,5,2,4
+EMP0044,47,Male,Married,Operations,Bachelor,27,49900.0,37.0,15,8,4
+EMP0045,23,Female,Married,Operations,Master,1,51100.0,57.0,2,8,3
+EMP0046,41,Male,Married,Operations,Bachelor,20,59700.0,40.0,8,6,4
+EMP0047,49,Female,Married,IT,Bachelor,27,80200.0,38.0,18,5,5
+EMP0048,28,Male,Single,HR,Master,6,51400.0,38.0,3,4,4
+EMP0049,29,Female,Married,Operations,Bachelor,8,51700.0,41.0,5,4,4
+EMP0050,56,Male,Divorced,Finance,Master,34,85700.0,40.0,15,2,5
+EMP0051,35,Female,Married,Sales,Bachelor,12,58900.0,40.0,7,6,4
+EMP0052,38,Female,Married,Sales,Bachelor,16,56200.0,42.0,7,5,4
+EMP0053,57,Female,Single,R&D,Bachelor,34,83300.0,38.0,17,2,5
+EMP0054,61,Female,Married,HR,PhD,35,72300.0,43.0,13,2,5
+EMP0055,25,Male,Married,Finance,Bachelor,4,48600.0,33.0,8,4,3
+EMP0056,23,Female,Married,Operations,Bachelor,1,39900.0,51.0,10,5,3
+EMP0057,27,Male,Divorced,Sales,Bachelor,5,51900.0,48.0,2,3,3
+EMP0058,63,Male,Single,Sales,Bachelor,42,89700.0,29.0,16,6,5
+EMP0059,25,Male,Single,IT,Bachelor,3,63700.0,34.0,5,3,3
+EMP0060,50,Male,Married,Sales,PhD,26,70000.0,46.0,12,4,5
+EMP0061,39,Female,Married,HR,Bachelor,18,52500.0,,14,4,4
+EMP0062,47,Female,Single,Finance,Master,24,75400.0,43.0,14,4,5
+EMP0063,55,Male,Single,Finance,Bachelor,34,87100.0,44.0,13,4,5
+EMP0064,31,Male,Single,Sales,Master,6,65800.0,46.0,8,5,3
+EMP0065,57,Female,Single,Sales,PhD,30,78400.0,30.0,18,0,5
+EMP0066,35,Male,Married,Sales,Bachelor,13,60100.0,41.0,12,3,4
+EMP0067,52,Male,Married,Finance,PhD,27,76900.0,39.0,11,1,5
+EMP0068,36,Male,Single,Finance,Bachelor,14,63300.0,39.0,9,3,4
+EMP0069,29,Female,Single,Sales,PhD,5,60100.0,29.0,5,10,3
+EMP0070,35,Female,Single,Finance,Master,12,64000.0,44.0,7,3,4
+EMP0071,44,Male,Single,Operations,Bachelor,24,64400.0,41.0,16,5,5
+EMP0072,61,Male,Married,Sales,Bachelor,39,80100.0,53.0,16,2,5
+EMP0073,42,Female,Divorced,HR,Bachelor,19,56200.0,38.0,13,2,5
+EMP0074,37,Female,Married,Operations,High School,17,57200.0,37.0,7,3,4
+EMP0075,39,Male,Single,R&D,Bachelor,19,64100.0,50.0,7,4,4
+EMP0076,45,Female,Married,R&D,Bachelor,24,80900.0,,13,4,5
+EMP0077,47,Male,Married,Finance,Bachelor,25,85800.0,42.0,12,5,5
+EMP0078,46,Male,Married,IT,Master,23,81600.0,51.0,11,6,5
+EMP0079,62,Female,Married,Operations,Bachelor,39,79100.0,49.0,17,4,5
+EMP0080,50,Male,Single,Finance,Bachelor,27,79900.0,45.0,12,2,5
+EMP0081,36,Female,Single,Operations,Master,11,63200.0,39.0,3,4,4
+EMP0082,22,Male,Single,R&D,Bachelor,1,58500.0,52.0,2,2,4
+EMP0083,46,Male,Single,Finance,High School,26,63800.0,30.0,11,1,5
+EMP0084,28,Female,Single,HR,Bachelor,7,50900.0,44.0,6,2,4
+EMP0085,30,Male,Married,Sales,PhD,5,57600.0,44.0,3,4,4
+EMP0086,45,Female,Married,Operations,Master,21,63100.0,44.0,13,6,4
+EMP0087,22,Male,Married,Finance,Bachelor,0,53300.0,65.0,5,3,3
+EMP0088,29,Male,Single,R&D,Master,4,64900.0,39.0,2,2,3
+EMP0089,45,Male,Divorced,IT,Bachelor,23,84200.0,36.0,15,2,5
+EMP0090,32,Female,Divorced,Sales,Master,9,59800.0,42.0,9,2,4
+EMP0091,38,Male,Married,R&D,Master,15,71900.0,36.0,6,1,4
+EMP0092,29,Female,Divorced,Sales,Master,4,56100.0,37.0,10,2,4
+EMP0093,56,Male,Married,Operations,Bachelor,36,73400.0,33.0,15,5,5
+EMP0094,56,Female,Divorced,Operations,High School,38,77600.0,32.0,20,4,5
+EMP0095,54,Male,Single,R&D,Bachelor,34,83100.0,40.0,15,3,5
+EMP0096,26,Female,Single,Operations,Master,3,50800.0,,4,7,3
+EMP0097,63,Female,Single,R&D,Bachelor,42,84500.0,25.0,20,5,5
+EMP0098,60,Female,Single,Operations,Master,35,74200.0,36.0,16,3,5
+EMP0099,62,Female,Single,HR,PhD,38,81200.0,36.0,18,3,5
+EMP0100,49,Female,Married,HR,Bachelor,26,59600.0,40.0,11,6,5
+EMP0101,28,Female,Married,IT,Master,3,66800.0,38.0,8,3,4
+EMP0102,30,Male,Married,R&D,Master,5,53000.0,37.0,6,3,4
+EMP0103,29,Male,Single,Sales,PhD,3,48600.0,41.0,9,1,4
+EMP0104,33,Female,Married,Finance,PhD,9,59700.0,29.0,10,2,4
+EMP0105,55,Female,Married,IT,Master,33,92900.0,53.0,14,0,5
+EMP0106,54,Female,Single,R&D,Bachelor,32,86300.0,30.0,15,2,5
+EMP0107,44,Male,Married,Sales,Master,20,66700.0,44.0,15,4,5
+EMP0108,45,Male,Single,R&D,Bachelor,25,77100.0,47.0,13,5,5
+EMP0109,58,Male,Single,Finance,Master,34,81300.0,34.0,17,6,5
+EMP0110,56,Female,Divorced,Sales,PhD,29,79800.0,,13,6,5
+EMP0111,61,Male,Single,Operations,Bachelor,40,79100.0,41.0,19,8,5
+EMP0112,43,Male,Married,IT,Master,18,78700.0,30.0,12,3,5
+EMP0113,48,Male,Married,HR,Bachelor,28,72900.0,40.0,14,3,5
+EMP0114,56,Male,Married,R&D,Bachelor,34,95900.0,40.0,17,5,5
+EMP0115,22,Female,Single,HR,Bachelor,1,38600.0,47.0,4,2,3
+EMP0116,56,Male,Single,Sales,Master,34,80800.0,44.0,15,4,5
+EMP0117,58,Female,Single,IT,PhD,32,109000.0,37.0,17,4,5
+EMP0118,35,Male,Married,HR,PhD,10,57400.0,37.0,10,4,4
+EMP0119,24,Male,Married,R&D,Bachelor,3,62000.0,37.0,6,5,3
+EMP0120,22,Male,Single,Operations,Master,0,47700.0,45.0,3,6,3
+EMP0121,26,Male,Divorced,HR,Master,3,50900.0,37.0,4,6,3
+EMP0122,47,Male,Married,Finance,Bachelor,27,79400.0,44.0,12,3,5
+EMP0123,35,Male,Single,Sales,High School,15,52800.0,49.0,7,0,4
+EMP0124,60,Female,Married,Operations,Bachelor,37,75500.0,39.0,18,4,5
+EMP0125,48,Male,Married,IT,PhD,24,75900.0,53.0,11,5,5
+EMP0126,30,Female,Single,Finance,Master,8,61400.0,34.0,5,1,4
+EMP0127,36,Female,Single,IT,Master,12,71100.0,46.0,15,2,4
+EMP0128,36,Female,Married,Sales,Bachelor,14,61900.0,45.0,8,7,4
+EMP0129,47,Male,Married,HR,Master,24,56900.0,44.0,18,2,5
+EMP0130,63,Male,Married,Finance,High School,45,85400.0,,20,5,5
+EMP0131,34,Male,Married,Finance,Bachelor,13,69200.0,39.0,7,4,4
+EMP0132,53,Male,Single,HR,Master,31,67400.0,41.0,17,2,5
+EMP0133,60,Female,Single,R&D,Bachelor,40,81500.0,45.0,18,2,5
+EMP0134,53,Male,Married,Sales,Master,28,74700.0,48.0,12,1,5
+EMP0135,25,Male,Single,R&D,Bachelor,5,60100.0,48.0,6,0,4
+EMP0136,51,Female,Single,Sales,Master,28,72500.0,37.0,15,2,5
+EMP0137,58,Female,Married,Operations,Bachelor,37,72000.0,34.0,17,5,5
+EMP0138,44,Female,Divorced,Sales,Bachelor,21,75700.0,33.0,12,3,4
+EMP0139,60,Male,Married,Sales,Bachelor,39,72400.0,44.0,15,2,5
+EMP0140,36,Male,Married,Finance,High School,16,79000.0,47.0,11,3,4
+EMP0141,64,Male,Single,Finance,PhD,37,85600.0,34.0,17,2,5
+EMP0142,50,Male,Divorced,IT,Bachelor,29,88100.0,40.0,13,5,5
+EMP0143,57,Male,Single,Finance,Master,34,80300.0,46.0,18,2,5
+EMP0144,34,Male,Divorced,R&D,PhD,8,66300.0,41.0,7,3,4
+EMP0145,53,Male,Divorced,Operations,Bachelor,30,66100.0,34.0,16,3,5
+EMP0146,28,Male,Married,Finance,Bachelor,6,61800.0,48.0,8,4,4
+EMP0147,43,Male,Divorced,Sales,Master,18,58300.0,35.0,12,0,5
+EMP0148,49,Female,Married,Finance,PhD,22,77400.0,38.0,10,1,5
+EMP0149,23,Female,Single,IT,PhD,0,57100.0,51.0,5,6,3
+EMP0150,63,Female,Married,R&D,Bachelor,42,94000.0,36.0,18,3,5
+EMP0151,27,Male,Married,R&D,Master,4,68400.0,38.0,9,4,4
+EMP0152,49,Male,Single,Sales,Bachelor,29,65800.0,35.0,12,5,5
+EMP0153,49,Male,Married,Sales,PhD,23,74800.0,41.0,9,8,5
+EMP0154,41,Female,Divorced,HR,PhD,17,61900.0,44.0,6,7,4
+EMP0155,51,Female,Single,Finance,Bachelor,30,86000.0,39.0,17,3,5
+EMP0156,32,Male,Married,Sales,Bachelor,11,53500.0,36.0,6,3,4
+EMP0157,49,Female,Divorced,IT,Bachelor,29,101300.0,36.0,11,1,5
+EMP0158,46,Male,Divorced,Operations,Bachelor,26,54800.0,38.0,12,9,5
+EMP0159,60,Male,Divorced,Finance,Master,38,84800.0,41.0,18,8,5
+EMP0160,54,Female,Married,Operations,Bachelor,33,63900.0,40.0,13,3,5
+EMP0161,22,Female,Divorced,Sales,High School,4,59500.0,43.0,8,5,3
+EMP0162,48,Female,Married,HR,Bachelor,28,65100.0,31.0,13,3,5
+EMP0163,34,Female,Single,Finance,PhD,8,63500.0,28.0,12,5,4
+EMP0164,62,Male,Married,Operations,Master,40,82200.0,35.0,20,4,5
+EMP0165,24,Female,Married,Operations,Bachelor,3,48400.0,40.0,7,5,3
+EMP0166,60,Male,Single,R&D,Bachelor,38,86400.0,41.0,19,4,5
+EMP0167,27,Female,Married,IT,PhD,0,61700.0,53.0,3,6,4
+EMP0168,29,Male,Married,Sales,Master,6,56600.0,46.0,6,1,4
+EMP0169,48,Female,Single,IT,Bachelor,27,87500.0,47.0,17,7,5
+EMP0170,30,Male,Married,IT,High School,9,72700.0,33.0,8,3,3
+EMP0171,58,Female,Married,Sales,High School,39,87800.0,36.0,17,4,5
+EMP0172,54,Male,Married,Operations,Bachelor,31,59900.0,36.0,14,8,5
+EMP0173,63,Female,Single,Sales,Bachelor,40,80700.0,35.0,18,2,5
+EMP0174,45,Male,Single,HR,PhD,20,70000.0,,11,0,5
+EMP0175,36,Male,Single,Finance,Bachelor,16,66200.0,30.0,9,1,4
+EMP0176,53,Male,Divorced,Finance,Master,31,69100.0,38.0,13,4,5
+EMP0177,53,Male,Single,IT,Bachelor,30,81500.0,44.0,16,3,5
+EMP0178,45,Female,Married,Operations,Master,21,66400.0,36.0,15,5,5
+EMP0179,62,Male,Single,HR,Master,37,77100.0,42.0,17,4,5
+EMP0180,33,Female,Single,Operations,Bachelor,10,57400.0,35.0,8,7,4
+EMP0181,60,Male,Married,IT,Bachelor,37,89700.0,48.0,15,1,5
+EMP0182,23,Male,Married,Sales,Master,1,53100.0,52.0,5,7,3
+EMP0183,24,Female,Single,IT,High School,6,62100.0,40.0,7,6,3
+EMP0184,58,Female,Married,Sales,Bachelor,38,80700.0,50.0,20,2,5
+EMP0185,38,Male,Single,Operations,Bachelor,15,58300.0,37.0,9,5,4
+EMP0186,23,Female,Married,R&D,PhD,0,58900.0,64.0,4,4,4
+EMP0187,23,Female,Married,Sales,Bachelor,3,59200.0,31.0,10,1,3
+EMP0188,49,Male,Single,HR,Master,26,58300.0,36.0,13,4,5
+EMP0189,44,Female,Single,Finance,Bachelor,23,71700.0,42.0,11,7,4
+EMP0190,58,Female,Single,R&D,Master,35,84800.0,33.0,13,1,5
+EMP0191,53,Female,Divorced,Sales,Bachelor,30,82200.0,37.0,14,3,5
+EMP0192,54,Male,Divorced,Finance,Master,31,83800.0,25.0,14,1,5
+EMP0193,22,Female,Single,IT,Bachelor,0,60800.0,48.0,5,4,3
+EMP0194,40,Male,Married,R&D,Master,17,73200.0,39.0,7,4,4
+EMP0195,23,Male,Single,Sales,Master,0,60300.0,54.0,8,2,4
+EMP0196,47,Male,Single,HR,Bachelor,24,58500.0,34.0,11,6,5
+EMP0197,53,Male,Married,Sales,Bachelor,32,65800.0,45.0,15,3,5
+EMP0198,27,Female,Divorced,Operations,High School,9,52700.0,52.0,7,6,4
+EMP0199,53,Female,Divorced,Operations,High School,32,71200.0,39.0,15,4,5
+EMP0200,25,Female,Married,Finance,Master,3,61700.0,42.0,8,5,3
+EMP0201,32,Male,Single,R&D,Bachelor,12,72000.0,33.0,10,3,4
+EMP0202,38,Male,Married,Operations,Bachelor,18,69300.0,41.0,13,6,4
+EMP0203,59,Male,Single,Finance,Master,37,77000.0,44.0,15,3,5
+EMP0204,45,Female,Married,Operations,Bachelor,24,59200.0,33.0,16,5,5
+EMP0205,26,Male,Single,Finance,Bachelor,5,61300.0,44.0,4,6,3
+EMP0206,55,Female,Married,Operations,Bachelor,32,66100.0,38.0,16,3,5
+EMP0207,27,Female,Single,Finance,PhD,0,50700.0,58.0,6,4,3
+EMP0208,43,Male,Single,HR,Master,18,69700.0,39.0,12,1,5
+EMP0209,32,Female,Divorced,IT,Master,9,65100.0,54.0,6,1,4
+EMP0210,37,Male,Single,Finance,Bachelor,14,63400.0,52.0,5,4,4
+EMP0211,54,Female,Married,Finance,Master,32,81300.0,47.0,16,3,5
+EMP0212,30,Female,Single,Sales,Bachelor,9,62700.0,39.0,8,1,4
+EMP0213,27,Male,Single,Finance,High School,6,47500.0,45.0,4,2,3
+EMP0214,37,Male,Single,Finance,High School,19,69300.0,42.0,10,2,4
+EMP0215,50,Female,Single,Sales,Bachelor,27,66100.0,37.0,19,2,5
+EMP0216,24,Female,Married,Sales,Bachelor,2,53700.0,54.0,3,3,3
+EMP0217,41,Male,Single,Finance,Bachelor,18,63900.0,,17,4,5
+EMP0218,57,Female,Divorced,Operations,High School,37,81500.0,55.0,14,9,5
+EMP0219,40,Female,Married,Finance,Bachelor,17,63100.0,53.0,8,2,4
+EMP0220,47,Female,Married,Sales,Master,22,56300.0,43.0,10,7,5
+EMP0221,24,Male,Married,Operations,Bachelor,3,44500.0,47.0,3,2,4
+EMP0222,40,Female,Married,Sales,Master,17,63300.0,40.0,8,3,5
+EMP0223,41,Female,Married,HR,Bachelor,19,64600.0,42.0,12,6,5
+EMP0224,53,Male,Single,Sales,Master,30,68700.0,28.0,16,2,5
+EMP0225,28,Male,Single,Sales,Bachelor,8,49200.0,41.0,9,1,4
+EMP0226,62,Female,Married,Sales,Bachelor,42,87400.0,37.0,17,2,5
+EMP0227,54,Male,Divorced,R&D,Bachelor,32,77700.0,49.0,15,6,5
+EMP0228,61,Female,Married,Sales,Master,39,81300.0,47.0,15,3,5
+EMP0229,60,Male,Married,R&D,Master,38,90600.0,30.0,17,2,5
+EMP0230,39,Male,Married,Finance,Bachelor,16,67900.0,26.0,9,6,4
+EMP0231,61,Female,Married,HR,Bachelor,40,72300.0,37.0,14,3,5
+EMP0232,22,Male,Married,R&D,Master,0,56400.0,60.0,3,1,3
+EMP0233,32,Male,Single,Operations,Master,10,57700.0,34.0,6,5,4
+EMP0234,49,Male,Married,Sales,Bachelor,28,66900.0,41.0,17,4,5
+EMP0235,46,Female,Single,Finance,Bachelor,26,68000.0,46.0,18,5,5
+EMP0236,44,Male,Single,Sales,Bachelor,24,74300.0,38.0,12,5,5
+EMP0237,52,Male,Married,Sales,Master,29,76600.0,46.0,14,1,5
+EMP0238,51,Female,Single,Finance,Bachelor,28,85200.0,32.0,15,2,5
+EMP0239,63,Male,Single,Finance,PhD,39,93100.0,38.0,16,7,5
+EMP0240,56,Female,Single,IT,Bachelor,35,85700.0,38.0,20,3,5
+EMP0241,28,Male,Divorced,Finance,Bachelor,8,60900.0,37.0,7,3,4
+EMP0242,37,Female,Married,IT,Bachelor,17,72500.0,38.0,10,2,4
+EMP0243,47,Male,Married,Sales,PhD,20,60700.0,45.0,9,2,5
+EMP0244,23,Female,Married,Sales,Master,0,48800.0,60.0,7,2,4
+EMP0245,22,Male,Married,Sales,Bachelor,0,53900.0,55.0,2,4,3
+EMP0246,33,Male,Single,Sales,Master,10,60400.0,,8,6,4
+EMP0247,26,Male,Married,Finance,Bachelor,4,50200.0,35.0,5,10,3
+EMP0248,58,Male,Married,Finance,Bachelor,37,81200.0,48.0,18,3,5
+EMP0249,53,Male,Married,Sales,Bachelor,31,73100.0,53.0,14,3,5
+EMP0250,30,Male,Single,IT,Bachelor,7,61200.0,34.0,7,2,3
+EMP0251,62,Female,Married,Operations,Bachelor,41,82400.0,28.0,16,4,5
+EMP0252,56,Male,Married,R&D,PhD,30,85900.0,45.0,15,6,5
+EMP0253,40,Male,Single,Sales,Bachelor,17,55600.0,37.0,11,1,5
+EMP0254,37,Female,Married,Sales,PhD,11,54600.0,48.0,6,4,4
+EMP0255,24,Female,Single,Sales,Bachelor,4,57700.0,38.0,8,6,3
+EMP0256,41,Male,Single,Sales,Master,19,64300.0,44.0,10,2,5
+EMP0257,45,Male,Married,Finance,Bachelor,22,77600.0,43.0,9,3,5
+EMP0258,54,Male,Single,Sales,Bachelor,34,84100.0,40.0,20,1,5
+EMP0259,45,Female,Married,R&D,Bachelor,25,84100.0,32.0,12,5,5
+EMP0260,32,Female,Married,IT,High School,13,69700.0,43.0,6,1,4
+EMP0261,29,Male,Single,Operations,Master,5,39500.0,40.0,8,5,4
+EMP0262,57,Female,Divorced,IT,Bachelor,36,94400.0,34.0,13,3,5
+EMP0263,59,Female,Single,Sales,Master,35,89500.0,33.0,11,4,5
+EMP0264,61,Female,Single,R&D,Bachelor,41,91600.0,34.0,16,2,5
+EMP0265,41,Female,Single,Finance,Bachelor,20,60100.0,41.0,16,2,5
+EMP0266,56,Male,Single,Sales,Bachelor,34,72800.0,34.0,13,4,5
+EMP0267,46,Male,Single,Sales,PhD,20,68100.0,,15,0,5
+EMP0268,56,Male,Married,Operations,Master,33,68900.0,35.0,14,5,5
+EMP0269,46,Male,Divorced,Finance,Bachelor,23,59600.0,24.0,13,3,5
+EMP0270,50,Male,Single,HR,Bachelor,28,65900.0,45.0,14,7,5
+EMP0271,39,Female,Married,HR,High School,21,54900.0,34.0,10,3,4
+EMP0272,39,Male,Married,HR,PhD,13,67300.0,46.0,12,2,5
+EMP0273,23,Male,Married,Sales,Master,1,52300.0,59.0,4,2,4
+EMP0274,56,Male,Married,R&D,Bachelor,35,89300.0,33.0,16,1,5
+EMP0275,37,Female,Single,Sales,Bachelor,15,60400.0,41.0,9,1,4
+EMP0276,62,Male,Single,Sales,Bachelor,42,83100.0,28.0,18,3,5
+EMP0277,57,Male,Married,IT,PhD,33,86100.0,37.0,14,2,5
+EMP0278,54,Male,Married,Finance,Bachelor,33,75200.0,47.0,16,3,5
+EMP0279,25,Male,Single,Operations,Master,1,54200.0,54.0,3,8,4
+EMP0280,54,Female,Single,R&D,Bachelor,32,85600.0,36.0,17,2,5
+EMP0281,35,Female,Divorced,R&D,Master,12,68600.0,39.0,6,3,4
+EMP0282,42,Male,Married,Sales,Master,18,67800.0,47.0,13,2,5
+EMP0283,41,Female,Divorced,Sales,Master,18,67900.0,41.0,10,3,5
+EMP0284,29,Female,Married,Sales,Master,5,65000.0,45.0,4,1,4
+EMP0285,28,Female,Single,Operations,Master,3,51200.0,46.0,4,3,3
+EMP0286,24,Male,Married,Operations,High School,4,41900.0,34.0,9,3,3
+EMP0287,38,Male,Married,Finance,Bachelor,18,67800.0,46.0,16,1,5
+EMP0288,54,Male,Single,HR,Bachelor,34,74200.0,33.0,16,3,5
+EMP0289,33,Female,Married,IT,PhD,6,77800.0,39.0,10,6,4
+EMP0290,43,Male,Married,Sales,Bachelor,21,57700.0,41.0,8,5,4
+EMP0291,43,Male,Single,R&D,Master,21,79100.0,48.0,13,3,5
+EMP0292,51,Male,Married,R&D,Master,29,79700.0,34.0,11,3,5
+EMP0293,59,Female,Married,Operations,Bachelor,37,72800.0,40.0,16,6,5
+EMP0294,59,Male,Divorced,IT,Bachelor,38,98600.0,35.0,16,2,5
+EMP0295,29,Female,Single,Sales,Bachelor,7,58300.0,44.0,10,3,4
+EMP0296,48,Female,Single,IT,Bachelor,27,82200.0,39.0,16,5,5
+EMP0297,48,Male,Married,Operations,Bachelor,25,65200.0,45.0,12,8,5
+EMP0298,55,Female,Single,Sales,High School,34,71500.0,34.0,18,1,5
+EMP0299,42,Male,Married,R&D,Master,20,91500.0,31.0,11,4,4
+EMP0300,51,Female,Married,HR,PhD,27,71000.0,45.0,16,3,5
+EMP0301,54,Male,Single,IT,Bachelor,34,87000.0,46.0,14,4,5
+EMP0302,49,Female,Married,Sales,Bachelor,28,78000.0,42.0,13,2,5
+EMP0303,54,Female,Married,Operations,High School,36,79600.0,,20,7,5
+EMP0304,26,Female,Single,R&D,Master,2,71600.0,58.0,7,1,4
+EMP0305,40,Female,Divorced,Operations,Master,17,72000.0,44.0,7,6,4
+EMP0306,25,Male,Married,HR,Bachelor,2,49100.0,51.0,2,5,3
+EMP0307,56,Female,Married,Finance,Bachelor,35,80300.0,52.0,17,1,5
+EMP0308,38,Female,Married,Operations,Master,16,59800.0,31.0,13,3,5
+EMP0309,49,Female,Married,Operations,Master,25,66500.0,45.0,12,6,5
+EMP0310,51,Male,Divorced,IT,High School,31,84800.0,35.0,16,1,5
+EMP0311,50,Female,Married,Sales,Master,28,79600.0,41.0,17,4,5
+EMP0312,27,Female,Married,Operations,Bachelor,5,50000.0,34.0,7,5,3
+EMP0313,56,Female,Married,Sales,Bachelor,35,81900.0,33.0,15,4,5
+EMP0314,62,Male,Single,HR,Master,39,80600.0,37.0,19,5,5
+EMP0315,58,Female,Married,Finance,Master,36,79300.0,,18,4,5
+EMP0316,45,Male,Single,HR,Bachelor,23,53800.0,39.0,11,3,5
+EMP0317,50,Female,Single,Finance,PhD,23,70200.0,42.0,11,5,5
+EMP0318,52,Male,Single,IT,Bachelor,31,86700.0,38.0,15,6,5
+EMP0319,56,Female,Divorced,Sales,Master,33,78100.0,52.0,20,4,5
+EMP0320,54,Female,Married,Operations,Bachelor,33,69200.0,45.0,16,4,5
+EMP0321,42,Male,Married,R&D,Master,19,79700.0,34.0,12,1,5
+EMP0322,53,Female,Married,Sales,PhD,26,71200.0,40.0,17,1,5
+EMP0323,44,Male,Married,Sales,High School,26,69100.0,35.0,11,1,5
+EMP0324,54,Female,Divorced,IT,PhD,29,91800.0,41.0,19,2,5
+EMP0325,24,Female,Married,IT,Master,0,74700.0,58.0,7,2,4
+EMP0326,39,Female,Single,IT,Master,14,72300.0,52.0,10,3,4
+EMP0327,46,Female,Single,IT,Bachelor,25,95000.0,34.0,13,5,5
+EMP0328,63,Female,Married,Sales,Master,39,79200.0,43.0,18,4,5
+EMP0329,52,Male,Married,R&D,Master,29,77500.0,46.0,18,2,5
+EMP0330,24,Male,Single,Operations,Bachelor,4,48100.0,41.0,8,6,3
+EMP0331,61,Female,Single,HR,PhD,34,91400.0,,18,3,5
+EMP0332,45,Female,Married,HR,High School,27,68100.0,44.0,14,1,5
+EMP0333,53,Female,Single,R&D,Bachelor,30,86000.0,39.0,12,2,5
+EMP0334,43,Female,Married,Finance,Bachelor,22,75600.0,37.0,12,1,4
+EMP0335,44,Male,Divorced,Finance,Bachelor,23,68600.0,45.0,11,3,5
+EMP0336,23,Female,Married,Sales,Master,0,52600.0,49.0,7,4,3
+EMP0337,48,Male,Single,HR,High School,28,64400.0,46.0,12,7,5
+EMP0338,63,Male,Married,Finance,PhD,37,96600.0,41.0,15,4,5
+EMP0339,23,Male,Married,Finance,High School,4,54700.0,43.0,7,2,4
+EMP0340,47,Male,Married,Sales,Bachelor,26,67900.0,49.0,11,2,5
+EMP0341,38,Male,Divorced,Operations,High School,20,54200.0,35.0,11,5,4
+EMP0342,61,Male,Single,Sales,Bachelor,40,81700.0,44.0,16,3,5
+EMP0343,54,Female,Married,R&D,PhD,27,86100.0,38.0,17,1,5
+EMP0344,30,Male,Married,Operations,Master,6,46800.0,37.0,5,5,3
+EMP0345,64,Male,Married,Finance,Master,40,90300.0,40.0,20,3,5
+EMP0346,60,Male,Single,R&D,High School,42,91800.0,61.0,19,3,5
+EMP0347,50,Male,Married,Operations,Bachelor,28,73500.0,41.0,15,5,5
+EMP0348,63,Male,Married,Finance,Bachelor,41,92900.0,40.0,17,3,5
+EMP0349,47,Male,Single,Operations,Bachelor,24,65700.0,41.0,14,7,5
+EMP0350,56,Female,Single,Operations,High School,36,67600.0,40.0,19,5,5
+EMP0351,46,Female,Married,Finance,Master,24,71000.0,46.0,18,2,5
+EMP0352,45,Female,Single,HR,Bachelor,25,72800.0,34.0,15,4,5
+EMP0353,34,Male,Single,Sales,Master,10,59800.0,33.0,9,3,4
+EMP0354,28,Male,Single,R&D,Bachelor,7,73300.0,40.0,6,1,4
+EMP0355,57,Female,Married,HR,Bachelor,35,74500.0,34.0,17,1,5
+EMP0356,41,Male,Married,Finance,Master,19,75000.0,,8,4,4
+EMP0357,22,Male,Married,Finance,Bachelor,2,60300.0,53.0,2,3,4
+EMP0358,29,Male,Single,R&D,Master,4,58100.0,41.0,4,2,3
+EMP0359,37,Male,Married,Sales,Master,13,62900.0,41.0,13,5,4
+EMP0360,35,Male,Married,HR,Bachelor,13,48200.0,52.0,8,7,4
+EMP0361,33,Male,Married,R&D,PhD,6,66400.0,43.0,9,1,4
+EMP0362,44,Female,Divorced,Operations,Bachelor,24,68400.0,46.0,16,6,5
+EMP0363,36,Male,Single,Sales,High School,15,53900.0,36.0,11,2,4
+EMP0364,49,Female,Married,Finance,Master,26,79600.0,44.0,11,3,5
+EMP0365,55,Female,Single,IT,Bachelor,33,82900.0,30.0,17,2,5
+EMP0366,23,Female,Married,Sales,Master,1,57500.0,58.0,3,0,3
+EMP0367,53,Female,Single,HR,Master,28,65100.0,24.0,16,3,5
+EMP0368,44,Female,Single,Sales,PhD,20,63900.0,38.0,12,4,5
+EMP0369,43,Male,Single,Finance,Bachelor,22,64400.0,41.0,9,0,5
+EMP0370,46,Male,Married,Finance,Bachelor,24,70300.0,38.0,9,0,5
+EMP0371,43,Male,Single,HR,Master,18,50900.0,50.0,8,1,5
+EMP0372,43,Female,Married,Finance,Bachelor,23,69700.0,42.0,12,3,5
+EMP0373,63,Female,Married,IT,Bachelor,41,102300.0,53.0,17,1,5
+EMP0374,27,Male,Single,Sales,Bachelor,5,52100.0,34.0,6,2,4
+EMP0375,36,Female,Married,Sales,High School,18,55500.0,39.0,14,5,4
+EMP0376,64,Male,Single,IT,Bachelor,42,98700.0,48.0,18,3,5
+EMP0377,58,Female,Married,Finance,Master,34,83900.0,42.0,17,5,5
+EMP0378,54,Male,Married,IT,Master,29,99000.0,30.0,12,3,5
+EMP0379,29,Male,Single,Finance,High School,9,63200.0,49.0,7,5,3
+EMP0380,26,Male,Single,Operations,High School,5,49500.0,30.0,9,6,3
+EMP0381,60,Male,Single,HR,Bachelor,38,78900.0,31.0,17,7,5
+EMP0382,25,Male,Divorced,Operations,Master,2,48900.0,,7,4,4
+EMP0383,27,Male,Married,IT,Bachelor,6,68400.0,26.0,4,4,3
+EMP0384,53,Female,Married,Finance,Master,28,86700.0,43.0,14,2,5
+EMP0385,51,Male,Married,Sales,Bachelor,28,63200.0,35.0,19,3,5
+EMP0386,56,Male,Single,R&D,Master,33,92200.0,35.0,15,2,5
+EMP0387,61,Female,Married,Sales,Bachelor,39,79600.0,39.0,18,1,5
+EMP0388,37,Female,Married,Sales,Master,12,59100.0,43.0,7,8,4
+EMP0389,34,Male,Single,R&D,Bachelor,14,67400.0,,7,2,4
+EMP0390,63,Male,Single,Finance,Master,39,88000.0,37.0,20,1,5
+EMP0391,51,Male,Single,Finance,Bachelor,29,77000.0,45.0,12,5,5
+EMP0392,40,Male,Married,HR,Master,17,57500.0,35.0,12,3,5
+EMP0393,38,Female,Divorced,Finance,Master,13,62900.0,41.0,12,1,4
+EMP0394,40,Male,Single,Sales,Bachelor,18,53900.0,41.0,10,1,5
+EMP0395,49,Male,Married,Sales,Master,24,66600.0,41.0,13,3,5
+EMP0396,47,Female,Single,Sales,Bachelor,24,65600.0,31.0,14,5,5
+EMP0397,58,Male,Divorced,Finance,Bachelor,35,82800.0,32.0,12,1,5
+EMP0398,47,Female,Single,Sales,Bachelor,26,79600.0,27.0,10,1,5
+EMP0399,44,Male,Married,R&D,Bachelor,21,72700.0,33.0,10,4,4
+EMP0400,30,Female,Married,HR,Master,7,46500.0,42.0,6,5,4
+EMP0401,33,Male,Married,Operations,Master,11,53200.0,42.0,7,7,4
+EMP0402,22,Female,Married,Sales,Bachelor,0,49800.0,65.0,4,6,4
+EMP0403,22,Female,Single,Finance,Bachelor,0,56900.0,56.0,3,4,3
+EMP0404,55,Male,Single,Operations,Master,33,78000.0,36.0,16,2,5
+EMP0405,53,Female,Single,Operations,PhD,28,76500.0,47.0,14,4,5
+EMP0406,46,Female,Single,IT,Bachelor,24,88000.0,37.0,10,3,5
+EMP0407,61,Female,Married,Sales,PhD,36,80400.0,,18,5,5
+EMP0408,22,Female,Single,Sales,Bachelor,1,60100.0,69.0,3,1,4
+EMP0409,37,Female,Single,IT,Bachelor,16,75000.0,34.0,9,4,4
+EMP0410,60,Male,Married,HR,Master,38,76900.0,37.0,15,3,5
+EMP0411,26,Male,Divorced,Finance,Bachelor,6,65300.0,42.0,8,3,4
+EMP0412,43,Female,Married,Operations,Bachelor,22,66400.0,48.0,11,9,4
+EMP0413,50,Male,Single,Operations,Bachelor,27,56400.0,43.0,10,7,5
+EMP0414,24,Female,Single,IT,Master,2,67600.0,52.0,9,1,4
+EMP0415,33,Female,Divorced,IT,Master,8,76700.0,35.0,9,3,4
+EMP0416,47,Male,Single,Operations,Bachelor,24,58500.0,35.0,13,7,5
+EMP0417,37,Male,Single,R&D,Bachelor,16,75600.0,49.0,9,5,4
+EMP0418,58,Female,Married,IT,Bachelor,35,94000.0,43.0,13,6,5
+EMP0419,43,Male,Married,Sales,Bachelor,20,70900.0,49.0,10,2,5
+EMP0420,50,Female,Married,Sales,Bachelor,27,67100.0,37.0,14,4,5
+EMP0421,35,Male,Single,IT,Master,12,80600.0,,8,6,4
+EMP0422,49,Female,Single,R&D,Bachelor,28,82200.0,32.0,15,1,5
+EMP0423,26,Male,Divorced,Sales,Bachelor,6,62600.0,41.0,5,1,4
+EMP0424,51,Female,Single,Sales,Bachelor,31,87700.0,42.0,17,1,5
+EMP0425,26,Male,Married,IT,Bachelor,3,74100.0,39.0,6,3,3
+EMP0426,33,Female,Married,Finance,PhD,8,66800.0,38.0,8,4,4
+EMP0427,37,Male,Married,Operations,Bachelor,16,70400.0,40.0,12,4,4
+EMP0428,47,Female,Single,Sales,Bachelor,24,71200.0,45.0,10,2,5
+EMP0429,47,Female,Single,Operations,Bachelor,27,63100.0,36.0,15,5,5
+EMP0430,42,Male,Married,Operations,Bachelor,21,62600.0,35.0,11,7,4
+EMP0431,60,Male,Married,R&D,High School,42,94400.0,43.0,20,5,5
+EMP0432,57,Male,Divorced,HR,Bachelor,34,75300.0,45.0,14,2,5
+EMP0433,54,Female,Single,Sales,Bachelor,33,69800.0,46.0,17,5,5
+EMP0434,51,Female,Single,IT,Bachelor,28,80900.0,36.0,17,1,5
+EMP0435,58,Male,Divorced,Finance,Bachelor,36,81100.0,39.0,15,1,5
+EMP0436,44,Male,Married,IT,Bachelor,21,83500.0,41.0,14,4,5
+EMP0437,31,Male,Married,R&D,PhD,4,69500.0,40.0,16,3,4
+EMP0438,26,Female,Single,Operations,Bachelor,3,49100.0,42.0,8,6,3
+EMP0439,57,Male,Married,Operations,Bachelor,36,70600.0,38.0,18,6,5
+EMP0440,55,Female,Married,Operations,Bachelor,32,80300.0,34.0,13,7,5
+EMP0441,52,Male,Married,IT,Bachelor,29,81800.0,33.0,11,0,5
+EMP0442,31,Female,Married,R&D,Master,7,73100.0,47.0,7,6,4
+EMP0443,40,Male,Single,Sales,Bachelor,19,67900.0,,12,3,4
+EMP0444,53,Male,Married,Operations,Master,29,77600.0,44.0,15,6,5
+EMP0445,22,Female,Single,Operations,High School,1,42600.0,,4,3,3
+EMP0446,26,Female,Married,Finance,Bachelor,5,57300.0,34.0,2,1,3
+EMP0447,25,Female,Divorced,Sales,Master,1,52100.0,55.0,6,3,4
+EMP0448,37,Male,Single,Finance,Bachelor,14,62800.0,33.0,12,6,4
+EMP0449,45,Male,Married,R&D,Bachelor,25,80100.0,40.0,10,6,4
+EMP0450,37,Female,Single,HR,Bachelor,15,63900.0,33.0,7,2,4
+EMP0451,23,Female,Married,Finance,Master,0,49500.0,57.0,2,7,3
+EMP0452,49,Male,Divorced,Operations,High School,29,63900.0,45.0,14,3,5
+EMP0453,53,Male,Single,Sales,Master,29,70400.0,35.0,16,2,5
+EMP0454,48,Male,Single,HR,Bachelor,26,64300.0,44.0,15,4,5
+EMP0455,41,Female,Married,R&D,Master,19,75500.0,47.0,15,3,5
+EMP0456,45,Male,Single,Sales,Bachelor,24,72100.0,47.0,12,7,5
+EMP0457,33,Male,Married,Operations,Master,10,56200.0,35.0,10,4,4
+EMP0458,56,Male,Divorced,IT,Bachelor,35,93500.0,39.0,16,1,5
+EMP0459,54,Male,Married,R&D,PhD,27,86600.0,43.0,16,1,5
+EMP0460,54,Male,Single,Operations,Bachelor,33,73600.0,41.0,18,8,5
+EMP0461,64,Male,Married,IT,Bachelor,43,101900.0,39.0,17,1,5
+EMP0462,58,Male,Married,Operations,Bachelor,38,75800.0,38.0,17,3,5
+EMP0463,33,Female,Single,Sales,High School,12,64800.0,40.0,9,1,4
+EMP0464,24,Male,Married,IT,Bachelor,1,77500.0,53.0,5,3,3
+EMP0465,22,Male,Married,R&D,PhD,0,66500.0,50.0,5,4,3
+EMP0466,54,Female,Married,R&D,PhD,27,85700.0,38.0,17,2,5
+EMP0467,61,Female,Single,Sales,Bachelor,38,82500.0,,14,3,5
+EMP0468,31,Male,Married,HR,PhD,7,48100.0,47.0,8,4,4
+EMP0469,64,Male,Single,Sales,Bachelor,43,84300.0,42.0,20,3,5
+EMP0470,50,Male,Single,Sales,Bachelor,27,66900.0,38.0,15,3,5
+EMP0471,34,Female,Married,R&D,Master,9,70700.0,31.0,4,2,4
+EMP0472,33,Female,Married,Operations,Master,11,53200.0,37.0,13,5,4
+EMP0473,52,Female,Single,IT,PhD,25,86300.0,39.0,13,4,5
+EMP0474,23,Female,Single,R&D,Bachelor,0,49600.0,47.0,3,3,3
+EMP0475,56,Female,Single,IT,Master,34,87300.0,35.0,11,3,5
+EMP0476,44,Male,Single,IT,High School,24,83000.0,28.0,15,2,4
+EMP0477,38,Male,Single,Operations,Bachelor,16,54500.0,39.0,9,6,4
+EMP0478,47,Female,Single,Sales,High School,26,73100.0,44.0,14,4,5
+EMP0479,29,Female,Married,Operations,PhD,2,46800.0,54.0,4,4,3
+EMP0480,50,Male,Married,IT,Master,27,89900.0,38.0,11,6,5
+EMP0481,47,Female,Married,Operations,Master,22,61800.0,40.0,11,3,5
+EMP0482,31,Male,Married,R&D,Bachelor,10,68900.0,48.0,12,3,4
+EMP0483,47,Male,Single,Finance,Bachelor,25,66300.0,32.0,12,3,5
+EMP0484,55,Male,Divorced,Finance,Bachelor,32,77300.0,36.0,15,4,5
+EMP0485,62,Male,Married,Finance,Bachelor,39,81000.0,49.0,20,4,5
+EMP0486,28,Female,Married,Sales,Bachelor,8,59800.0,52.0,4,6,4
+EMP0487,25,Male,Married,R&D,Master,0,63300.0,60.0,2,1,4
+EMP0488,32,Female,Divorced,Operations,Bachelor,10,47800.0,35.0,8,6,4
+EMP0489,50,Female,Married,IT,High School,29,84200.0,33.0,13,2,5
+EMP0490,57,Female,Single,Sales,High School,38,73500.0,37.0,20,4,5
+EMP0491,46,Male,Married,IT,Bachelor,23,87200.0,34.0,13,5,4
+EMP0492,42,Male,Married,R&D,Bachelor,21,82200.0,33.0,16,4,5
+EMP0493,57,Male,Married,Operations,PhD,33,69200.0,37.0,18,4,5
+EMP0494,31,Female,Married,Operations,Master,6,56900.0,41.0,4,7,3
+EMP0495,58,Female,Single,Operations,Master,36,72700.0,46.0,20,4,5
+EMP0496,30,Male,Single,IT,Bachelor,10,70700.0,36.0,6,5,3
+EMP0497,45,Female,Divorced,R&D,Bachelor,22,76800.0,30.0,12,1,5
+EMP0498,56,Male,Married,IT,Bachelor,35,101100.0,35.0,15,2,5
+EMP0499,56,Female,Married,Sales,Master,31,70800.0,41.0,15,4,5
+EMP0500,57,Male,Single,Operations,Master,34,79400.0,46.0,15,4,5
+EMP0501,39,Female,Single,Operations,Bachelor,19,55300.0,35.0,14,5,4
+EMP0502,60,Male,Married,Operations,Bachelor,38,70200.0,37.0,12,3,5
+EMP0503,53,Female,Married,R&D,Bachelor,30,83100.0,39.0,17,4,5
+EMP0504,45,Female,Married,IT,Master,21,82900.0,41.0,11,1,5
+EMP0505,44,Female,Married,Sales,PhD,19,54000.0,37.0,11,2,5
+EMP0506,53,Male,Married,Sales,Bachelor,30,78800.0,36.0,12,0,5
+EMP0507,58,Male,Single,Operations,Bachelor,36,64100.0,34.0,15,3,5
+EMP0508,33,Male,Married,HR,High School,13,51700.0,36.0,7,3,4
+EMP0509,34,Male,Married,Operations,High School,13,61000.0,58.0,5,6,4
+EMP0510,44,Male,Married,R&D,Bachelor,22,87600.0,35.0,10,0,5
+EMP0511,46,Female,Married,Sales,High School,25,65200.0,38.0,12,8,4
+EMP0512,56,Female,Divorced,Operations,Master,32,66400.0,40.0,14,5,5
+EMP0513,62,Male,Single,Finance,Master,40,94500.0,29.0,20,3,5
+EMP0514,51,Male,Married,Sales,Bachelor,28,75700.0,43.0,18,3,5
+EMP0515,38,Male,Single,Operations,Master,16,58400.0,53.0,6,3,5
+EMP0516,41,Female,Married,Finance,Bachelor,21,67700.0,38.0,10,4,4
+EMP0517,46,Male,Single,Finance,Bachelor,24,69600.0,39.0,13,3,5
+EMP0518,43,Female,Single,HR,Bachelor,22,59900.0,39.0,8,3,5
+EMP0519,34,Male,Married,Operations,Bachelor,14,58800.0,30.0,7,5,4
+EMP0520,40,Female,Single,Operations,Bachelor,20,59200.0,40.0,11,5,4
+EMP0521,57,Female,Married,Operations,Bachelor,37,73400.0,47.0,19,4,5
+EMP0522,33,Male,Divorced,Sales,Bachelor,12,61800.0,39.0,8,2,4
+EMP0523,62,Female,Single,Operations,PhD,37,72200.0,38.0,18,5,5
+EMP0524,40,Male,Married,Operations,High School,22,59700.0,47.0,11,5,4
+EMP0525,33,Female,Married,Operations,Bachelor,12,47200.0,31.0,7,7,4
+EMP0526,30,Male,Married,R&D,High School,11,66300.0,30.0,8,1,4
+EMP0527,28,Female,Single,IT,Master,5,60300.0,32.0,5,1,4
+EMP0528,49,Female,Single,Operations,High School,28,70900.0,43.0,13,5,5
+EMP0529,35,Female,Single,Sales,Master,13,54800.0,37.0,8,2,4
+EMP0530,52,Female,Single,HR,Bachelor,31,59900.0,47.0,15,4,5
+EMP0531,40,Male,Single,IT,Bachelor,17,75800.0,35.0,9,3,4
+EMP0532,37,Male,Married,Sales,Bachelor,15,69600.0,36.0,13,3,4
+EMP0533,26,Male,Married,IT,Bachelor,4,70800.0,41.0,4,1,3
+EMP0534,56,Male,Married,Operations,Bachelor,35,64400.0,34.0,16,4,5
+EMP0535,33,Female,Married,Finance,Bachelor,13,57700.0,34.0,8,5,4
+EMP0536,46,Male,Single,R&D,Bachelor,25,77000.0,35.0,11,2,5
+EMP0537,42,Female,Single,Sales,Bachelor,20,76200.0,35.0,11,3,4
+EMP0538,57,Female,Single,IT,Bachelor,37,88900.0,48.0,17,2,5
+EMP0539,44,Female,Single,R&D,PhD,20,74300.0,41.0,11,3,5
+EMP0540,37,Male,Married,Operations,High School,17,65200.0,44.0,7,3,4
+EMP0541,60,Female,Married,R&D,Master,35,90000.0,46.0,15,4,5
+EMP0542,63,Female,Single,Sales,Master,38,86700.0,38.0,16,2,5
+EMP0543,60,Male,Single,Sales,Bachelor,39,76600.0,48.0,20,3,5
+EMP0544,35,Female,Married,Finance,Bachelor,15,65500.0,41.0,7,1,4
+EMP0545,52,Female,Married,IT,Bachelor,31,95400.0,39.0,13,1,5
+EMP0546,26,Male,Single,R&D,Master,4,63500.0,51.0,5,1,4
+EMP0547,56,Male,Divorced,R&D,Master,32,92200.0,40.0,15,3,5
+EMP0548,44,Male,Divorced,R&D,Master,22,80500.0,44.0,14,0,5
+EMP0549,50,Male,Single,Finance,PhD,26,73600.0,47.0,13,2,5
+EMP0550,64,Male,Single,HR,Master,40,77900.0,38.0,16,2,5
+EMP0551,32,Male,Married,IT,Bachelor,9,76100.0,42.0,5,3,4
+EMP0552,39,Male,Divorced,Finance,Bachelor,17,70900.0,,10,5,4
+EMP0553,33,Male,Married,Finance,Master,11,64600.0,38.0,10,3,4
+EMP0554,30,Female,Single,Sales,Bachelor,8,45900.0,37.0,7,5,4
+EMP0555,31,Male,Single,IT,High School,13,63400.0,42.0,9,5,4
+EMP0556,38,Female,Married,Sales,Master,13,53500.0,50.0,11,1,5
+EMP0557,59,Male,Married,Sales,Bachelor,36,75200.0,40.0,19,5,5
+EMP0558,28,Male,Single,Operations,PhD,4,51300.0,,11,5,4
+EMP0559,34,Male,Married,Finance,Master,9,55800.0,44.0,7,0,4
+EMP0560,61,Male,Married,HR,High School,41,79900.0,34.0,17,4,5
+EMP0561,63,Male,Married,HR,PhD,36,70500.0,49.0,12,2,5
+EMP0562,30,Female,Married,Operations,Bachelor,9,46300.0,41.0,6,8,4
+EMP0563,48,Male,Married,Sales,Bachelor,25,69400.0,41.0,11,1,5
+EMP0564,23,Female,Married,Operations,Bachelor,2,52500.0,60.0,2,4,4
+EMP0565,26,Female,Married,Finance,High School,6,67100.0,43.0,11,1,3
+EMP0566,50,Male,Single,HR,Bachelor,27,68500.0,40.0,17,2,5
+EMP0567,58,Male,Married,HR,Bachelor,35,79900.0,36.0,19,4,5
+EMP0568,59,Female,Single,R&D,Bachelor,36,81700.0,32.0,16,5,5
+EMP0569,40,Male,Married,Operations,Bachelor,18,71200.0,42.0,16,3,5
+EMP0570,29,Male,Single,Finance,Master,5,50700.0,46.0,4,6,3
+EMP0571,22,Female,Single,R&D,Master,0,58500.0,51.0,2,7,3
+EMP0572,43,Male,Single,Finance,Bachelor,23,75200.0,,9,2,5
+EMP0573,38,Female,Single,IT,Bachelor,16,68800.0,29.0,7,2,4
+EMP0574,28,Female,Married,HR,Bachelor,5,43400.0,41.0,7,6,3
+EMP0575,46,Male,Married,IT,Bachelor,25,78600.0,39.0,10,4,5
+EMP0576,25,Male,Married,R&D,Master,0,59400.0,,9,5,4
+EMP0577,57,Male,Single,Sales,Master,32,83700.0,47.0,18,2,5
+EMP0578,27,Male,Single,Sales,Bachelor,5,53100.0,47.0,5,1,3
+EMP0579,52,Male,Single,HR,Bachelor,32,67300.0,47.0,14,5,5
+EMP0580,40,Female,Single,Sales,Bachelor,17,48200.0,29.0,8,6,4
+EMP0581,60,Male,Married,Sales,Master,36,82100.0,39.0,20,3,5
+EMP0582,48,Male,Single,IT,Bachelor,27,89600.0,,19,2,5
+EMP0583,31,Female,Single,Operations,PhD,4,44700.0,40.0,6,4,4
+EMP0584,47,Female,Single,Operations,Master,24,66900.0,37.0,13,6,5
+EMP0585,40,Female,Single,Sales,Bachelor,18,64400.0,44.0,15,5,5
+EMP0586,60,Male,Married,Sales,Bachelor,38,84200.0,43.0,14,4,5
+EMP0587,24,Female,Married,Sales,PhD,0,49400.0,69.0,5,7,4
+EMP0588,34,Male,Single,Operations,Bachelor,12,51200.0,39.0,9,4,4
+EMP0589,49,Male,Single,IT,Bachelor,27,83300.0,37.0,17,3,5
+EMP0590,41,Male,Single,HR,Bachelor,21,67200.0,40.0,13,4,4
+EMP0591,49,Female,Single,Sales,Master,26,77000.0,50.0,14,2,5
+EMP0592,29,Male,Single,Finance,Master,7,61500.0,37.0,9,2,4
+EMP0593,62,Male,Divorced,R&D,Master,39,97300.0,37.0,18,3,5
+EMP0594,60,Male,Married,R&D,Master,35,77200.0,40.0,16,1,5
+EMP0595,22,Male,Married,Finance,Master,0,60000.0,47.0,7,2,3
+EMP0596,24,Female,Married,Operations,PhD,0,44400.0,54.0,4,5,4
+EMP0597,34,Female,Married,Sales,High School,13,66200.0,26.0,8,3,4
+EMP0598,49,Female,Married,Sales,Bachelor,26,64500.0,37.0,14,4,5
+EMP0599,46,Male,Married,IT,Master,21,78500.0,,13,6,5
+EMP0600,54,Male,Married,Sales,Master,32,79400.0,35.0,14,2,5
+EMP0601,59,Male,Single,Sales,Master,37,83900.0,48.0,15,5,5
+EMP0602,27,Male,Married,Sales,Bachelor,5,50800.0,52.0,4,2,4
+EMP0603,53,Male,Married,Sales,Master,30,76900.0,37.0,20,2,5
+EMP0604,42,Female,Married,R&D,Master,17,77100.0,32.0,11,3,5
+EMP0605,37,Male,Married,Operations,High School,18,60400.0,33.0,12,6,4
+EMP0606,42,Male,Married,R&D,Bachelor,20,73000.0,42.0,10,3,4
+EMP0607,32,Male,Single,HR,Bachelor,10,54500.0,22.0,4,4,4
+EMP0608,58,Male,Married,Operations,Bachelor,35,81000.0,36.0,16,6,5
+EMP0609,57,Male,Single,Finance,High School,37,75500.0,39.0,19,5,5
+EMP0610,56,Female,Single,IT,Bachelor,33,86200.0,40.0,15,3,5
+EMP0611,40,Female,Single,IT,Bachelor,18,78500.0,35.0,9,2,4
+EMP0612,41,Female,Married,Sales,Master,17,59300.0,41.0,10,5,5
+EMP0613,39,Male,Single,Operations,Master,14,50200.0,39.0,11,6,4
+EMP0614,62,Male,Single,HR,Master,38,81900.0,40.0,20,1,5
+EMP0615,35,Male,Married,IT,Bachelor,13,63300.0,41.0,6,0,4
+EMP0616,36,Male,Single,HR,Bachelor,14,53200.0,44.0,10,3,4
+EMP0617,52,Female,Married,IT,Master,29,93000.0,43.0,11,5,5
+EMP0618,22,Male,Married,Operations,Bachelor,2,48900.0,54.0,3,6,3
+EMP0619,24,Male,Single,Sales,PhD,0,51100.0,60.0,5,9,4
+EMP0620,37,Male,Married,Finance,Master,13,60900.0,39.0,7,1,4
+EMP0621,44,Male,Single,IT,Bachelor,24,84900.0,30.0,12,2,5
+EMP0622,32,Female,Married,IT,PhD,7,68700.0,40.0,7,3,4
+EMP0623,33,Male,Married,Sales,High School,14,59500.0,42.0,8,7,4
+EMP0624,31,Male,Married,Operations,Bachelor,10,54700.0,38.0,8,6,4
+EMP0625,53,Male,Married,R&D,Master,28,84200.0,48.0,11,6,5
+EMP0626,37,Male,Single,Sales,Bachelor,15,57800.0,33.0,9,3,4
+EMP0627,29,Female,Single,HR,PhD,3,60600.0,38.0,6,4,4
+EMP0628,59,Female,Married,Sales,High School,41,81600.0,41.0,19,2,5
+EMP0629,33,Female,Married,Operations,Bachelor,12,54200.0,40.0,14,3,4
+EMP0630,45,Female,Married,R&D,Bachelor,23,78700.0,48.0,12,1,5
+EMP0631,49,Male,Married,Operations,Master,26,64900.0,60.0,14,4,5
+EMP0632,29,Female,Married,Sales,Bachelor,7,52700.0,56.0,9,1,4
+EMP0633,49,Male,Married,R&D,Bachelor,28,93400.0,35.0,13,3,5
+EMP0634,57,Male,Single,Sales,Master,33,73600.0,44.0,18,1,5
+EMP0635,47,Female,Married,Sales,Bachelor,27,70200.0,39.0,15,2,5
+EMP0636,29,Male,Married,Sales,Master,6,53500.0,42.0,4,2,4
+EMP0637,49,Female,Single,Sales,Bachelor,27,65400.0,47.0,12,2,5
+EMP0638,49,Male,Married,Finance,Master,27,79700.0,37.0,13,5,5
+EMP0639,58,Female,Married,R&D,Master,36,90000.0,50.0,16,2,5
+EMP0640,62,Female,Married,HR,Bachelor,40,80600.0,47.0,18,5,5
+EMP0641,57,Female,Single,R&D,Bachelor,36,91900.0,41.0,19,5,5
+EMP0642,48,Female,Single,IT,Master,23,88900.0,37.0,10,3,5
+EMP0643,38,Female,Married,IT,Bachelor,18,73800.0,49.0,9,4,4
+EMP0644,30,Male,Divorced,HR,PhD,6,56000.0,32.0,8,2,4
+EMP0645,54,Male,Single,R&D,Bachelor,32,87900.0,,13,0,5
+EMP0646,41,Male,Single,Sales,Bachelor,18,58300.0,35.0,15,1,5
+EMP0647,34,Female,Married,IT,Bachelor,11,71200.0,44.0,10,5,4
+EMP0648,49,Male,Single,Sales,PhD,22,63300.0,42.0,12,5,5
+EMP0649,50,Female,Married,R&D,Bachelor,28,84700.0,39.0,15,5,5
+EMP0650,34,Male,Divorced,R&D,Master,11,73100.0,34.0,9,2,4
+EMP0651,56,Male,Single,R&D,Master,34,95400.0,50.0,14,10,5
+EMP0652,27,Female,Married,Sales,Bachelor,5,51900.0,34.0,9,0,4
+EMP0653,39,Male,Single,Operations,High School,18,60700.0,48.0,16,6,5
+EMP0654,26,Male,Single,Sales,Master,4,59100.0,48.0,7,1,4
+EMP0655,46,Male,Married,Finance,Bachelor,26,71000.0,45.0,15,3,5
+EMP0656,23,Female,Married,Sales,Master,0,46500.0,52.0,2,3,3
+EMP0657,31,Female,Divorced,Sales,Bachelor,8,51800.0,40.0,7,4,4
+EMP0658,51,Male,Married,IT,Bachelor,31,87100.0,48.0,18,1,5
+EMP0659,26,Male,Single,Sales,Master,4,49800.0,33.0,7,0,4
+EMP0660,54,Male,Single,Operations,Bachelor,33,69000.0,36.0,13,6,5
+EMP0661,22,Female,Single,Finance,Bachelor,1,59200.0,58.0,3,3,3
+EMP0662,39,Female,Single,Sales,Bachelor,17,62100.0,40.0,15,5,4
+EMP0663,53,Male,Single,IT,Bachelor,33,91900.0,40.0,14,4,5
+EMP0664,32,Male,Single,Sales,Bachelor,11,55000.0,45.0,7,2,4
+EMP0665,42,Male,Married,IT,Master,20,78900.0,37.0,15,4,5
+EMP0666,47,Female,Married,Sales,Bachelor,24,69600.0,56.0,10,0,5
+EMP0667,46,Female,Married,IT,Bachelor,25,84600.0,45.0,13,1,5
+EMP0668,43,Male,Married,Sales,Master,18,69300.0,35.0,7,4,4
+EMP0669,48,Male,Single,Finance,Bachelor,25,80500.0,49.0,13,0,5
+EMP0670,34,Male,Single,Operations,Bachelor,11,51300.0,53.0,12,8,4
+EMP0671,54,Female,Married,IT,PhD,28,94700.0,29.0,11,4,5
+EMP0672,55,Male,Married,IT,Master,30,84600.0,41.0,15,6,5
+EMP0673,62,Female,Single,Operations,Bachelor,40,88400.0,52.0,19,6,5
+EMP0674,56,Female,Married,IT,Master,34,89300.0,41.0,18,4,5
+EMP0675,22,Male,Married,Sales,High School,4,53700.0,41.0,4,0,4
+EMP0676,42,Male,Married,R&D,Master,19,70800.0,39.0,13,2,5
+EMP0677,27,Male,Single,R&D,Bachelor,6,63000.0,32.0,9,3,4
+EMP0678,49,Female,Married,R&D,Bachelor,27,88300.0,35.0,15,1,5
+EMP0679,38,Female,Married,R&D,Bachelor,18,69300.0,34.0,10,2,4
+EMP0680,26,Female,Married,Finance,High School,7,68600.0,33.0,12,3,3
+EMP0681,52,Male,Married,Sales,Bachelor,31,73800.0,42.0,16,2,5
+EMP0682,26,Male,Married,Operations,PhD,1,55700.0,51.0,8,5,3
+EMP0683,59,Female,Married,Sales,Bachelor,39,82200.0,55.0,16,1,5
+EMP0684,24,Female,Single,R&D,Bachelor,3,63700.0,44.0,7,4,4
+EMP0685,44,Male,Married,Finance,High School,26,65700.0,36.0,17,2,5
+EMP0686,58,Female,Married,Operations,High School,37,71200.0,,15,3,5
+EMP0687,58,Female,Married,Operations,Master,33,80400.0,34.0,18,6,5
+EMP0688,31,Female,Single,Finance,Bachelor,8,58700.0,,6,1,4
+EMP0689,31,Female,Single,Sales,Bachelor,9,56900.0,37.0,6,6,3
+EMP0690,40,Female,Married,Finance,Bachelor,20,62300.0,,15,3,5
+EMP0691,38,Female,Married,Sales,Master,15,60300.0,42.0,9,3,4
+EMP0692,42,Male,Divorced,R&D,Bachelor,20,80600.0,41.0,10,5,4
+EMP0693,35,Male,Married,HR,Bachelor,13,48000.0,31.0,7,3,4
+EMP0694,30,Female,Married,Sales,Bachelor,7,58200.0,,4,5,3
+EMP0695,22,Male,Married,R&D,Bachelor,2,61500.0,49.0,3,2,3
+EMP0696,34,Male,Married,IT,Bachelor,13,73200.0,35.0,10,3,4
+EMP0697,25,Male,Married,IT,Master,1,65400.0,50.0,12,6,3
+EMP0698,22,Male,Married,R&D,Master,0,58500.0,,7,6,4
+EMP0699,61,Female,Single,Sales,Master,36,77800.0,38.0,16,3,5
+EMP0700,53,Female,Married,Sales,Bachelor,33,80000.0,39.0,18,3,5
+EMP0701,55,Male,Married,R&D,High School,36,83600.0,42.0,17,3,5
+EMP0702,49,Male,Single,IT,Bachelor,28,95400.0,42.0,17,1,5
+EMP0703,52,Male,Single,Sales,PhD,26,75300.0,34.0,12,5,5
+EMP0704,29,Female,Single,Operations,Bachelor,8,49500.0,40.0,9,5,4
+EMP0705,60,Female,Single,Sales,Master,38,86300.0,34.0,17,4,5
+EMP0706,47,Male,Single,IT,High School,29,88300.0,46.0,11,1,5
+EMP0707,55,Female,Married,R&D,Bachelor,34,77900.0,40.0,15,3,5
+EMP0708,24,Female,Divorced,Operations,High School,4,42000.0,41.0,7,7,3
+EMP0709,33,Female,Married,R&D,Bachelor,11,67200.0,48.0,9,3,4
+EMP0710,22,Female,Single,Finance,PhD,0,50100.0,57.0,4,1,4
+EMP0711,26,Male,Single,Sales,PhD,2,65100.0,58.0,3,3,3
+EMP0712,51,Female,Married,Sales,Bachelor,28,75500.0,43.0,13,3,5
+EMP0713,51,Male,Single,IT,Bachelor,29,87100.0,45.0,14,4,5
+EMP0714,38,Female,Married,IT,PhD,11,75100.0,44.0,10,2,5
+EMP0715,44,Female,Married,IT,Master,20,79000.0,38.0,16,6,5
+EMP0716,36,Female,Married,Finance,High School,15,54200.0,34.0,12,2,4
+EMP0717,58,Female,Single,Operations,Bachelor,35,65300.0,42.0,16,6,5
+EMP0718,42,Male,Married,Sales,Bachelor,22,76100.0,37.0,10,2,4
+EMP0719,35,Male,Single,R&D,Bachelor,15,78900.0,42.0,9,7,4
+EMP0720,23,Female,Divorced,R&D,Bachelor,0,56100.0,59.0,4,7,3
+EMP0721,32,Female,Married,Finance,Bachelor,10,66500.0,34.0,11,2,4
+EMP0722,60,Male,Single,R&D,Bachelor,38,91900.0,45.0,20,5,5
+EMP0723,59,Male,Single,Sales,Bachelor,39,83300.0,40.0,17,3,5
+EMP0724,55,Male,Single,Finance,Bachelor,35,74900.0,44.0,15,3,5
+EMP0725,59,Female,Married,Operations,Master,36,67800.0,29.0,20,3,5
+EMP0726,55,Female,Single,R&D,Master,33,93300.0,37.0,15,2,5
+EMP0727,39,Male,Married,Sales,Bachelor,17,52700.0,37.0,11,4,4
+EMP0728,51,Male,Single,Sales,PhD,27,73900.0,32.0,15,5,5
+EMP0729,36,Female,Married,Sales,PhD,11,60000.0,37.0,4,2,5
+EMP0730,48,Female,Married,R&D,Bachelor,25,76700.0,37.0,13,2,5
+EMP0731,55,Male,Married,Finance,High School,34,80800.0,30.0,14,0,5
+EMP0732,59,Female,Married,Finance,Master,35,80600.0,47.0,20,5,5
+EMP0733,54,Male,Single,Operations,Master,31,74800.0,30.0,14,4,5
+EMP0734,45,Male,Single,R&D,PhD,18,78100.0,38.0,14,2,5
+EMP0735,36,Female,Married,Operations,Master,11,67300.0,42.0,11,6,4
+EMP0736,51,Female,Single,Sales,Master,29,67300.0,45.0,11,6,5
+EMP0737,63,Female,Married,HR,Bachelor,40,76100.0,47.0,19,1,5
+EMP0738,38,Female,Single,Operations,High School,18,60600.0,41.0,15,4,4
+EMP0739,26,Female,Single,Sales,Bachelor,3,50100.0,44.0,5,1,3
+EMP0740,50,Male,Single,Sales,Bachelor,28,64700.0,39.0,13,2,5
+EMP0741,25,Male,Married,IT,Master,1,73100.0,47.0,6,2,3
+EMP0742,31,Male,Single,R&D,Bachelor,11,69500.0,40.0,16,1,4
+EMP0743,38,Male,Married,Operations,Master,15,53700.0,51.0,11,6,4
+EMP0744,31,Female,Single,Sales,Bachelor,9,58400.0,40.0,11,2,4
+EMP0745,38,Female,Married,Operations,Bachelor,15,66500.0,31.0,13,4,4
+EMP0746,41,Male,Single,R&D,High School,20,72800.0,35.0,7,0,4
+EMP0747,45,Male,Married,Sales,Bachelor,23,67400.0,49.0,15,2,5
+EMP0748,26,Female,Married,Finance,Master,1,64600.0,54.0,4,4,3
+EMP0749,55,Male,Single,Sales,Master,33,72500.0,,15,3,5
+EMP0750,27,Female,Divorced,R&D,PhD,0,71600.0,51.0,2,1,4
+EMP0751,23,Female,Divorced,Sales,Bachelor,3,56300.0,48.0,7,7,3
+EMP0752,34,Female,Married,Sales,Bachelor,12,54000.0,,10,2,4
+EMP0753,64,Male,Married,R&D,Bachelor,42,89300.0,38.0,17,3,5
+EMP0754,64,Male,Single,Sales,Bachelor,42,80000.0,46.0,19,3,5
+EMP0755,32,Female,Married,IT,Master,10,64800.0,41.0,11,5,4
+EMP0756,44,Female,Single,Sales,Master,19,67500.0,32.0,15,1,5
+EMP0757,37,Male,Single,HR,Master,15,53600.0,37.0,8,3,4
+EMP0758,52,Female,Divorced,Sales,Bachelor,29,73700.0,40.0,11,1,5
+EMP0759,32,Male,Single,R&D,Master,7,60100.0,59.0,9,3,4
+EMP0760,37,Female,Married,IT,High School,19,81800.0,45.0,12,3,5
+EMP0761,29,Male,Married,Sales,Master,6,59500.0,37.0,8,5,4
+EMP0762,25,Female,Married,IT,Bachelor,3,62900.0,42.0,7,5,3
+EMP0763,61,Male,Divorced,Sales,Bachelor,38,81200.0,36.0,16,2,5
+EMP0764,25,Male,Single,Operations,Bachelor,2,48000.0,51.0,6,3,4
+EMP0765,46,Male,Single,Finance,PhD,22,83000.0,41.0,17,2,5
+EMP0766,24,Male,Married,IT,High School,5,60800.0,52.0,5,1,4
+EMP0767,53,Female,Single,Finance,Bachelor,31,78000.0,29.0,13,4,5
+EMP0768,24,Female,Single,Finance,Master,1,53600.0,57.0,1,5,3
+EMP0769,48,Male,Single,Sales,Bachelor,26,70000.0,44.0,16,5,5
+EMP0770,50,Male,Married,Sales,Bachelor,27,73300.0,36.0,12,0,5
+EMP0771,53,Female,Married,IT,Bachelor,30,84700.0,30.0,14,5,5
+EMP0772,40,Female,Single,R&D,Bachelor,20,73200.0,37.0,11,1,5
+EMP0773,42,Female,Married,R&D,PhD,18,82200.0,32.0,9,2,5
+EMP0774,26,Male,Single,Operations,Master,3,57200.0,34.0,3,4,4
+EMP0775,39,Male,Single,R&D,Bachelor,18,75900.0,36.0,14,0,5
+EMP0776,49,Female,Married,IT,PhD,23,85700.0,,11,3,5
+EMP0777,63,Male,Married,Operations,Bachelor,43,79200.0,43.0,17,3,5
+EMP0778,43,Female,Married,Finance,High School,22,72300.0,38.0,15,4,5
+EMP0779,42,Male,Single,IT,Bachelor,22,82700.0,38.0,12,3,5
+EMP0780,27,Female,Married,Sales,Bachelor,6,45600.0,35.0,8,3,4
+EMP0781,22,Male,Married,R&D,Bachelor,2,63500.0,58.0,7,5,3
+EMP0782,26,Female,Married,HR,PhD,0,43700.0,44.0,10,3,4
+EMP0783,62,Male,Married,Sales,Master,40,75900.0,40.0,20,4,5
+EMP0784,33,Female,Married,Operations,Bachelor,12,47300.0,36.0,7,3,4
+EMP0785,47,Male,Married,IT,Bachelor,24,82100.0,42.0,11,1,5
+EMP0786,55,Female,Married,HR,Master,31,65700.0,34.0,17,4,5
+EMP0787,35,Female,Divorced,R&D,PhD,9,58600.0,38.0,6,2,4
+EMP0788,47,Female,Married,IT,Master,22,81800.0,48.0,10,3,5
+EMP0789,48,Female,Married,HR,Bachelor,25,61500.0,38.0,11,1,5
+EMP0790,30,Female,Married,HR,Master,5,49300.0,45.0,9,3,4
+EMP0791,47,Female,Single,R&D,Bachelor,26,76700.0,34.0,10,4,5
+EMP0792,43,Male,Single,IT,Bachelor,20,89100.0,34.0,11,2,5
+EMP0793,51,Female,Married,Finance,Bachelor,30,80600.0,,14,4,5
+EMP0794,64,Male,Divorced,Operations,Bachelor,41,76300.0,36.0,15,11,5
+EMP0795,38,Male,Divorced,Operations,Bachelor,17,59300.0,,8,6,4
+EMP0796,47,Male,Single,R&D,Bachelor,26,86900.0,52.0,10,2,5
+EMP0797,57,Male,Married,HR,High School,39,78000.0,45.0,19,5,5
+EMP0798,22,Female,Single,Operations,Master,0,41000.0,63.0,3,2,4
+EMP0799,29,Female,Divorced,R&D,High School,8,58500.0,44.0,8,2,3
+EMP0800,56,Female,Divorced,Operations,Bachelor,34,69300.0,48.0,16,4,5
+EMP0801,36,Male,Married,IT,Bachelor,14,73000.0,40.0,8,4,4
+EMP0802,43,Male,Married,Finance,PhD,19,70200.0,37.0,12,1,5
+EMP0803,35,Male,Married,Operations,Bachelor,13,56600.0,33.0,10,5,4
+EMP0804,47,Male,Married,Operations,High School,27,69300.0,,15,9,4
+EMP0805,49,Male,Single,Operations,Bachelor,26,71300.0,34.0,15,3,5
+EMP0806,44,Male,Married,R&D,Master,21,76200.0,54.0,17,3,5
+EMP0807,35,Male,Married,Sales,PhD,8,51200.0,43.0,14,3,5
+EMP0808,45,Female,Married,HR,Bachelor,22,56400.0,39.0,12,3,5
+EMP0809,23,Female,Single,Operations,Bachelor,1,44200.0,60.0,7,3,3
+EMP0810,47,Female,Divorced,HR,PhD,21,58600.0,41.0,17,1,5
+EMP0811,35,Female,Single,Operations,Bachelor,12,61300.0,42.0,6,4,4
+EMP0812,28,Female,Married,R&D,Master,3,57500.0,37.0,5,7,3
+EMP0813,24,Male,Married,Finance,Bachelor,2,58700.0,49.0,6,5,3
+EMP0814,44,Female,Married,Sales,High School,25,58600.0,43.0,12,5,5
+EMP0815,64,Female,Married,Operations,Bachelor,43,83700.0,,19,4,5
+EMP0816,39,Male,Single,Finance,Bachelor,16,66100.0,40.0,8,8,4
+EMP0817,59,Male,Single,Sales,Master,36,87400.0,37.0,15,5,5
+EMP0818,56,Female,Married,R&D,PhD,29,80500.0,44.0,12,4,5
+EMP0819,36,Male,Married,Operations,Bachelor,16,56000.0,41.0,11,5,4
+EMP0820,46,Female,Single,HR,Master,22,61700.0,32.0,12,5,5
+EMP0821,58,Female,Married,Sales,High School,37,75800.0,36.0,20,2,5
+EMP0822,49,Male,Married,IT,Bachelor,26,83100.0,54.0,9,4,5
+EMP0823,31,Male,Married,Operations,High School,10,50400.0,49.0,8,2,3
+EMP0824,60,Male,Married,IT,PhD,35,94300.0,37.0,17,2,5
+EMP0825,38,Male,Single,HR,Master,13,46000.0,35.0,9,3,4
+EMP0826,60,Male,Single,HR,Master,38,81400.0,51.0,20,7,5
+EMP0827,43,Female,Married,IT,Master,20,96300.0,52.0,10,5,4
+EMP0828,47,Male,Married,Finance,Master,23,75900.0,40.0,13,5,5
+EMP0829,46,Male,Married,Operations,PhD,22,61900.0,41.0,12,5,5
+EMP0830,38,Male,Married,R&D,Master,13,66200.0,39.0,11,1,4
+EMP0831,34,Female,Married,HR,PhD,10,59100.0,44.0,7,2,4
+EMP0832,41,Male,Divorced,Sales,Bachelor,18,65300.0,53.0,13,2,5
+EMP0833,46,Male,Married,Sales,Bachelor,26,68400.0,45.0,12,5,5
+EMP0834,25,Female,Married,Sales,Bachelor,4,56000.0,44.0,6,1,3
+EMP0835,31,Female,Married,Sales,Bachelor,8,45100.0,44.0,7,3,4
+EMP0836,24,Male,Single,IT,Bachelor,3,70200.0,38.0,6,2,4
+EMP0837,62,Female,Married,Sales,Bachelor,42,83800.0,33.0,20,2,5
+EMP0838,39,Male,Single,Operations,Master,14,54200.0,32.0,9,5,4
+EMP0839,57,Male,Divorced,Operations,High School,37,66400.0,37.0,15,7,5
+EMP0840,43,Male,Married,Finance,Bachelor,21,71400.0,52.0,10,3,5
+EMP0841,55,Male,Married,Sales,Bachelor,32,81600.0,44.0,15,1,5
+EMP0842,29,Female,Single,Operations,PhD,5,52900.0,30.0,5,5,4
+EMP0843,61,Male,Single,Finance,Bachelor,39,80900.0,46.0,18,1,5
+EMP0844,40,Male,Single,Operations,Bachelor,17,60600.0,30.0,7,5,4
+EMP0845,63,Female,Married,Operations,Master,39,88300.0,37.0,20,4,5
+EMP0846,62,Female,Single,IT,Master,37,97800.0,41.0,16,5,5
+EMP0847,58,Male,Married,Finance,Bachelor,38,87100.0,50.0,13,4,5
+EMP0848,27,Female,Married,R&D,Bachelor,7,70700.0,25.0,5,5,3
+EMP0849,47,Male,Married,Finance,Bachelor,26,77200.0,41.0,14,1,5
+EMP0850,55,Female,Married,Sales,PhD,29,72300.0,36.0,16,1,5
+EMP0851,27,Female,Single,IT,Bachelor,6,60100.0,37.0,7,1,4
+EMP0852,58,Female,Married,Sales,Bachelor,38,74800.0,42.0,15,2,5
+EMP0853,54,Male,Married,R&D,High School,33,77900.0,38.0,16,2,5
+EMP0854,43,Male,Single,Operations,Bachelor,23,67700.0,41.0,11,3,4
+EMP0855,42,Male,Married,Finance,Master,20,76000.0,46.0,10,1,5
+EMP0856,27,Male,Single,R&D,Bachelor,4,63100.0,37.0,3,4,4
+EMP0857,27,Male,Married,HR,High School,8,42100.0,36.0,5,6,4
+EMP0858,25,Female,Divorced,IT,Bachelor,3,75300.0,47.0,5,3,3
+EMP0859,51,Male,Single,R&D,High School,33,81300.0,48.0,17,1,5
+EMP0860,32,Male,Married,IT,High School,14,76200.0,37.0,12,6,4
+EMP0861,51,Female,Married,Sales,Master,27,72800.0,41.0,14,2,5
+EMP0862,52,Male,Divorced,Operations,Master,30,73000.0,,12,5,5
+EMP0863,45,Female,Married,Operations,PhD,19,68000.0,34.0,9,9,4
+EMP0864,30,Male,Married,Sales,Master,6,52300.0,39.0,8,3,4
+EMP0865,24,Male,Single,HR,Master,0,52500.0,55.0,6,5,3
+EMP0866,52,Male,Single,Sales,High School,31,63900.0,39.0,19,4,5
+EMP0867,61,Male,Single,Operations,Master,38,73200.0,34.0,17,6,5
+EMP0868,58,Female,Divorced,Finance,Master,35,90500.0,42.0,14,4,5
+EMP0869,57,Male,Married,Finance,Master,32,84600.0,44.0,16,6,5
+EMP0870,45,Male,Married,Sales,Bachelor,24,80900.0,38.0,12,3,5
+EMP0871,52,Male,Divorced,Sales,Bachelor,31,74100.0,36.0,15,3,5
+EMP0872,27,Male,Single,Sales,Master,4,62700.0,43.0,5,4,3
+EMP0873,23,Female,Single,R&D,Master,1,52500.0,48.0,7,7,3
+EMP0874,41,Male,Single,Finance,PhD,14,62100.0,50.0,13,2,5
+EMP0875,49,Female,Single,IT,Bachelor,28,90900.0,53.0,15,1,5
+EMP0876,32,Female,Single,Operations,Bachelor,9,44500.0,45.0,8,4,4
+EMP0877,25,Female,Married,HR,Bachelor,4,46200.0,43.0,3,3,3
+EMP0878,36,Female,Single,IT,Master,13,82200.0,37.0,11,2,4
+EMP0879,27,Male,Single,Operations,Bachelor,4,51700.0,48.0,3,5,3
+EMP0880,51,Male,Single,IT,High School,31,86900.0,42.0,15,4,5
+EMP0881,59,Male,Single,Finance,PhD,32,81400.0,38.0,15,0,5
+EMP0882,23,Female,Divorced,R&D,High School,3,60400.0,33.0,5,5,3
+EMP0883,36,Female,Married,Sales,Master,14,65100.0,43.0,6,0,5
+EMP0884,32,Male,Divorced,Operations,Bachelor,9,49900.0,37.0,14,7,4
+EMP0885,29,Female,Married,Sales,Master,5,56900.0,45.0,6,4,4
+EMP0886,47,Male,Single,R&D,Bachelor,26,85200.0,41.0,16,4,5
+EMP0887,26,Female,Married,Finance,PhD,2,58500.0,49.0,10,4,4
+EMP0888,27,Male,Single,Finance,PhD,0,58300.0,,10,2,4
+EMP0889,47,Female,Single,Finance,High School,27,76000.0,50.0,14,1,5
+EMP0890,25,Female,Single,Sales,High School,5,53800.0,41.0,3,2,3
+EMP0891,40,Male,Single,R&D,Bachelor,17,77000.0,43.0,12,5,5
+EMP0892,41,Male,Single,Finance,Master,17,64500.0,43.0,12,2,4
+EMP0893,54,Male,Single,IT,Master,29,86600.0,32.0,19,1,5
+EMP0894,41,Male,Married,Operations,Bachelor,19,58700.0,42.0,9,7,5
+EMP0895,33,Male,Single,IT,Master,10,69500.0,35.0,10,3,4
+EMP0896,22,Female,Single,Operations,Bachelor,0,37000.0,52.0,6,3,3
+EMP0897,47,Female,Married,Finance,Master,22,57300.0,53.0,9,0,5
+EMP0898,35,Male,Single,Sales,PhD,11,67800.0,38.0,5,5,4
+EMP0899,59,Male,Single,Operations,Bachelor,38,68600.0,34.0,15,5,5
+EMP0900,58,Female,Married,Finance,Bachelor,35,89800.0,38.0,15,3,5
+EMP0901,32,Female,Single,Finance,High School,12,65300.0,44.0,6,2,4
+EMP0902,57,Male,Single,HR,Bachelor,35,70000.0,35.0,20,2,5
+EMP0903,34,Female,Married,Finance,Bachelor,12,66700.0,43.0,11,3,4
+EMP0904,64,Male,Single,R&D,Bachelor,44,96300.0,39.0,20,2,5
+EMP0905,24,Male,Married,Finance,Bachelor,1,49300.0,53.0,3,5,3
+EMP0906,54,Male,Married,Sales,Bachelor,32,74500.0,50.0,17,3,5
+EMP0907,27,Male,Single,Operations,Bachelor,7,46700.0,,5,6,3
+EMP0908,31,Male,Married,Sales,Bachelor,11,61100.0,53.0,13,3,5
+EMP0909,26,Female,Married,Sales,High School,5,47400.0,39.0,5,5,3
+EMP0910,44,Female,Single,HR,Master,20,61500.0,42.0,13,1,5
+EMP0911,31,Female,Married,Operations,Master,8,53700.0,42.0,4,5,4
+EMP0912,23,Male,Single,HR,Bachelor,1,45400.0,55.0,2,4,3
+EMP0913,34,Male,Married,R&D,High School,15,77300.0,48.0,10,2,4
+EMP0914,61,Female,Single,Finance,Master,38,85200.0,36.0,20,1,5
+EMP0915,23,Male,Married,R&D,PhD,0,69100.0,63.0,6,1,4
+EMP0916,41,Male,Single,IT,Bachelor,20,82400.0,39.0,10,3,5
+EMP0917,22,Male,Married,IT,Bachelor,2,72700.0,60.0,1,3,3
+EMP0918,58,Female,Single,Finance,Bachelor,38,82700.0,37.0,20,1,5
+EMP0919,30,Male,Married,R&D,Bachelor,8,68900.0,48.0,7,6,4
+EMP0920,38,Male,Married,Operations,Bachelor,15,57700.0,50.0,8,4,4
+EMP0921,30,Female,Married,Sales,Bachelor,10,42100.0,54.0,7,1,4
+EMP0922,32,Male,Married,HR,Master,8,47000.0,38.0,5,6,4
+EMP0923,36,Male,Married,R&D,Bachelor,15,73900.0,36.0,8,3,4
+EMP0924,45,Male,Married,IT,Bachelor,25,86600.0,36.0,12,1,5
+EMP0925,59,Male,Married,Sales,Bachelor,37,72100.0,39.0,16,2,5
+EMP0926,56,Female,Single,Finance,Bachelor,34,82300.0,49.0,16,2,5
+EMP0927,51,Male,Married,Operations,High School,30,70500.0,35.0,13,6,5
+EMP0928,52,Male,Married,HR,High School,33,68200.0,30.0,17,3,5
+EMP0929,26,Female,Divorced,Sales,Master,3,57000.0,31.0,5,3,4
+EMP0930,35,Female,Married,IT,High School,16,77800.0,36.0,11,5,4
+EMP0931,32,Female,Single,Finance,Master,8,62200.0,42.0,8,1,4
+EMP0932,30,Male,Single,Finance,PhD,4,58600.0,45.0,6,3,4
+EMP0933,55,Male,Married,Sales,Bachelor,34,81400.0,37.0,18,5,5
+EMP0934,33,Female,Married,HR,Bachelor,11,55100.0,44.0,8,3,4
+EMP0935,56,Female,Married,HR,Bachelor,33,63500.0,36.0,17,3,5
+EMP0936,56,Male,Married,Sales,Master,32,77700.0,44.0,14,2,5
+EMP0937,22,Male,Married,Sales,PhD,0,47200.0,47.0,8,4,4
+EMP0938,61,Male,Single,Operations,Master,39,74400.0,34.0,20,6,5
+EMP0939,43,Female,Married,Sales,High School,22,61300.0,34.0,13,4,4
+EMP0940,50,Male,Married,Sales,Master,28,73600.0,,12,0,5
+EMP0941,29,Male,Single,Finance,Bachelor,8,62300.0,32.0,6,4,4
+EMP0942,32,Male,Married,Operations,Bachelor,11,52800.0,28.0,11,4,4
+EMP0943,62,Female,Married,Sales,High School,41,78000.0,40.0,19,2,5
+EMP0944,58,Female,Single,Finance,Bachelor,36,80300.0,46.0,17,5,5
+EMP0945,35,Male,Single,Sales,Master,13,66600.0,39.0,10,3,5
+EMP0946,51,Female,Divorced,Sales,Bachelor,28,57100.0,54.0,13,2,5
+EMP0947,56,Female,Single,Sales,Bachelor,36,76300.0,41.0,17,5,5
+EMP0948,42,Male,Married,Operations,Bachelor,20,69700.0,36.0,20,4,4
+EMP0949,58,Male,Married,Sales,Master,36,82400.0,31.0,16,1,5
+EMP0950,26,Male,Married,Sales,Master,1,58100.0,59.0,6,3,4
+EMP0951,40,Female,Married,HR,Bachelor,18,48200.0,41.0,8,3,4
+EMP0952,35,Female,Single,Operations,Bachelor,13,50200.0,38.0,9,3,4
+EMP0953,47,Female,Married,R&D,Bachelor,24,80800.0,33.0,13,3,5
+EMP0954,25,Female,Single,HR,PhD,0,55800.0,63.0,4,1,4
+EMP0955,46,Male,Married,Sales,Bachelor,26,64100.0,32.0,11,4,5
+EMP0956,63,Female,Single,HR,Bachelor,42,75700.0,48.0,20,3,5
+EMP0957,46,Male,Married,Finance,Bachelor,23,74400.0,42.0,12,4,5
+EMP0958,39,Male,Single,Finance,Bachelor,19,61900.0,32.0,13,3,4
+EMP0959,61,Female,Single,R&D,Master,37,93200.0,51.0,20,6,5
+EMP0960,29,Female,Single,R&D,Bachelor,8,52000.0,42.0,8,1,4
+EMP0961,60,Male,Single,Sales,Bachelor,40,83500.0,39.0,18,3,5
+EMP0962,61,Female,Married,R&D,Bachelor,38,84400.0,38.0,20,5,5
+EMP0963,35,Female,Single,Sales,Bachelor,13,57200.0,44.0,13,2,4
+EMP0964,53,Male,Divorced,Operations,PhD,26,74100.0,35.0,11,5,5
+EMP0965,59,Female,Divorced,IT,Bachelor,39,97400.0,39.0,18,2,5
+EMP0966,54,Male,Married,IT,Master,31,90800.0,39.0,12,5,5
+EMP0967,44,Male,Single,IT,Master,22,88400.0,39.0,13,0,5
+EMP0968,36,Male,Single,Finance,Bachelor,16,58300.0,34.0,14,1,5
+EMP0969,54,Female,Married,Operations,High School,34,72200.0,45.0,16,5,5
+EMP0970,46,Female,Single,R&D,Bachelor,23,73400.0,44.0,14,3,5
+EMP0971,38,Male,Single,Finance,Master,16,73400.0,40.0,12,4,5
+EMP0972,54,Male,Married,HR,Bachelor,34,74600.0,38.0,14,4,5
+EMP0973,23,Female,Married,HR,Bachelor,2,49200.0,48.0,5,4,3
+EMP0974,35,Male,Married,Operations,Bachelor,14,65400.0,42.0,9,7,4
+EMP0975,61,Female,Single,R&D,Master,36,95400.0,35.0,16,3,5
+EMP0976,61,Female,Married,R&D,Bachelor,38,88600.0,44.0,17,4,5
+EMP0977,60,Male,Single,IT,Bachelor,38,94400.0,41.0,16,0,5
+EMP0978,27,Female,Single,Sales,Bachelor,4,55200.0,39.0,9,4,3
+EMP0979,27,Male,Married,HR,Bachelor,6,49500.0,38.0,9,4,4
+EMP0980,24,Female,Single,IT,Master,0,69500.0,57.0,6,1,3
+EMP0981,28,Female,Single,Finance,Bachelor,8,49200.0,41.0,9,5,4
+EMP0982,29,Female,Single,Finance,Master,4,68600.0,38.0,11,2,4
+EMP0983,63,Male,Married,Sales,Master,38,81700.0,,16,2,5
+EMP0984,36,Female,Married,R&D,Bachelor,14,62100.0,30.0,13,3,4
+EMP0985,50,Male,Married,IT,Master,28,83800.0,36.0,18,4,5
+EMP0986,54,Male,Married,Finance,Bachelor,32,69000.0,38.0,19,4,5
+EMP0987,51,Male,Single,Finance,Bachelor,30,72500.0,40.0,13,2,5
+EMP0988,60,Female,Married,Sales,Master,35,78300.0,40.0,14,1,5
+EMP0989,48,Male,Single,Sales,Bachelor,25,76600.0,37.0,16,5,5
+EMP0990,57,Female,Single,IT,Master,34,95300.0,43.0,17,4,5
+EMP0991,50,Female,Married,R&D,Bachelor,28,82600.0,39.0,18,5,5
+EMP0992,59,Male,Divorced,Finance,PhD,35,80300.0,39.0,13,3,5
+EMP0993,54,Female,Single,Sales,Bachelor,32,70500.0,40.0,16,3,5
+EMP0994,58,Male,Single,Operations,High School,38,70700.0,46.0,14,4,5
+EMP0995,48,Female,Single,IT,Bachelor,28,82900.0,41.0,18,3,5
+EMP0996,54,Female,Single,Finance,Master,29,77400.0,39.0,15,1,5
+EMP0997,25,Male,Divorced,Sales,Master,1,50400.0,53.0,1,2,3
+EMP0998,43,Female,Married,Finance,Bachelor,22,69900.0,48.0,10,4,5
+EMP0999,23,Male,Married,Operations,Master,1,45400.0,57.0,4,4,3
+EMP1000,31,Male,Married,HR,Bachelor,8,51100.0,30.0,6,5,3
+EMP1001,26,Female,Single,IT,Bachelor,6,67200.0,36.0,8,4,4
+EMP1002,31,Male,Married,Finance,Master,8,54400.0,48.0,10,2,4
+EMP1003,54,Male,Married,IT,Master,32,91800.0,29.0,15,4,5
+EMP1004,59,Male,Married,Finance,Master,37,85000.0,,20,1,5
+EMP1005,34,Female,Divorced,Sales,Master,10,51100.0,44.0,12,4,4
+EMP1006,52,Male,Married,R&D,High School,33,80400.0,48.0,16,2,5
+EMP1007,57,Male,Single,Sales,Master,34,81200.0,39.0,15,7,5
+EMP1008,45,Female,Married,IT,Bachelor,24,77500.0,33.0,11,3,5
+EMP1009,36,Female,Single,Operations,Bachelor,16,52600.0,44.0,17,4,5
+EMP1010,50,Male,Single,Operations,Bachelor,29,67600.0,47.0,14,8,5
+EMP1011,29,Male,Single,R&D,Bachelor,8,68500.0,,14,1,4
+EMP1012,26,Male,Single,Sales,Bachelor,5,62100.0,41.0,5,2,3
+EMP1013,50,Male,Married,Operations,Bachelor,28,71700.0,38.0,14,6,5
+EMP1014,25,Male,Married,HR,Bachelor,4,52600.0,38.0,4,7,3
+EMP1015,33,Female,Divorced,Sales,Bachelor,13,61100.0,40.0,7,5,4
+EMP1016,23,Female,Married,Finance,Bachelor,1,51400.0,51.0,5,2,4
+EMP1017,48,Female,Married,Sales,Bachelor,27,73900.0,46.0,12,4,5
+EMP1018,52,Male,Single,R&D,Bachelor,31,83400.0,41.0,18,5,5
+EMP1019,57,Female,Single,HR,Master,33,74300.0,38.0,17,2,5
+EMP1020,57,Male,Married,Sales,Master,34,73500.0,49.0,15,2,5
+EMP1021,47,Female,Married,IT,Master,25,88300.0,37.0,10,1,5
+EMP1022,64,Female,Married,Sales,Bachelor,44,83600.0,33.0,20,1,5
+EMP1023,48,Male,Single,Sales,Master,25,72200.0,37.0,15,3,5
+EMP1024,26,Female,Single,Sales,Bachelor,6,53400.0,42.0,5,4,4
+EMP1025,41,Male,Married,Operations,Bachelor,19,59800.0,38.0,9,4,5
+EMP1026,32,Female,Single,HR,Bachelor,11,55200.0,42.0,11,1,4
+EMP1027,31,Male,Single,Finance,Master,7,59600.0,32.0,7,1,4
+EMP1028,61,Male,Married,Sales,Bachelor,41,73900.0,48.0,19,5,5
+EMP1029,59,Female,Single,Sales,High School,40,69600.0,28.0,20,1,5
+EMP1030,27,Male,Married,HR,Bachelor,5,48900.0,45.0,5,2,3
+EMP1031,29,Female,Single,Operations,Master,7,51400.0,47.0,7,4,4
+EMP1032,44,Male,Single,IT,Master,21,74200.0,31.0,13,1,5
+EMP1033,47,Female,Single,Sales,Bachelor,24,68700.0,,15,4,5
+EMP1034,64,Female,Married,Finance,Bachelor,44,88700.0,,17,2,5
+EMP1035,33,Male,Single,IT,Bachelor,13,71900.0,31.0,8,2,4
+EMP1036,47,Male,Married,R&D,Master,22,79800.0,40.0,11,2,5
+EMP1037,34,Male,Single,Operations,Bachelor,11,61400.0,39.0,4,6,4
+EMP1038,61,Male,Married,Sales,Master,37,87000.0,53.0,17,8,5
+EMP1039,39,Male,Single,IT,Bachelor,19,79900.0,55.0,10,2,5
+EMP1040,46,Female,Married,Operations,Master,21,64400.0,44.0,8,5,5
+EMP1041,54,Female,Married,IT,High School,35,90800.0,43.0,14,3,5
+EMP1042,61,Female,Divorced,Operations,Bachelor,41,80300.0,41.0,20,2,5
+EMP1043,64,Female,Single,R&D,Bachelor,42,91300.0,47.0,14,3,5
+EMP1044,33,Female,Single,IT,Bachelor,10,72900.0,47.0,12,3,4
+EMP1045,57,Female,Single,R&D,High School,39,80300.0,35.0,18,7,5
+EMP1046,25,Male,Married,R&D,Master,3,63800.0,39.0,5,3,4
+EMP1047,26,Female,Married,Operations,Bachelor,3,50800.0,35.0,1,4,3
+EMP1048,58,Female,Married,Operations,Master,33,72000.0,40.0,17,2,5
+EMP1049,29,Female,Single,IT,Master,4,68700.0,45.0,7,5,4
+EMP1050,63,Male,Single,Sales,Bachelor,43,77800.0,39.0,16,2,5
+EMP1051,49,Male,Single,Operations,Master,24,60900.0,36.0,11,4,5
+EMP1052,52,Male,Divorced,Operations,Master,27,70700.0,32.0,14,5,5
+EMP1053,30,Female,Married,Sales,Bachelor,10,53400.0,51.0,10,2,4
+EMP1054,50,Male,Divorced,R&D,Master,28,74500.0,46.0,14,1,5
+EMP1055,35,Male,Single,R&D,Bachelor,13,63800.0,35.0,9,5,4
+EMP1056,61,Female,Married,R&D,Bachelor,40,86200.0,44.0,19,2,5
+EMP1057,62,Male,Married,IT,Master,40,101900.0,43.0,16,2,5
+EMP1058,43,Male,Single,Finance,Bachelor,22,72500.0,43.0,12,4,5
+EMP1059,32,Male,Married,Operations,Bachelor,10,49600.0,50.0,7,3,4
+EMP1060,44,Female,Divorced,IT,Bachelor,22,78700.0,36.0,10,1,5
+EMP1061,22,Female,Married,R&D,Master,0,67600.0,,7,3,3
+EMP1062,58,Male,Married,Operations,PhD,32,80300.0,32.0,14,3,5
+EMP1063,42,Female,Single,HR,Bachelor,19,53600.0,43.0,13,2,5
+EMP1064,47,Male,Single,IT,Master,22,89400.0,46.0,13,5,5
+EMP1065,57,Female,Divorced,Sales,PhD,33,79000.0,46.0,15,3,5
+EMP1066,44,Female,Single,IT,High School,26,86800.0,33.0,12,2,5
+EMP1067,22,Female,Married,Sales,Bachelor,1,49000.0,53.0,3,1,4
+EMP1068,61,Male,Married,R&D,Master,36,95700.0,35.0,17,4,5
+EMP1069,36,Female,Married,Operations,Master,11,51000.0,59.0,7,7,4
+EMP1070,42,Female,Divorced,R&D,Master,19,74900.0,46.0,16,3,5
+EMP1071,30,Male,Single,Finance,Bachelor,7,65700.0,32.0,10,6,3
+EMP1072,30,Female,Single,HR,High School,10,38000.0,36.0,5,5,4
+EMP1073,31,Male,Single,Operations,Bachelor,8,52200.0,26.0,5,6,3
+EMP1074,47,Female,Married,Sales,Bachelor,24,66200.0,40.0,15,4,5
+EMP1075,62,Male,Single,Sales,Bachelor,39,83600.0,38.0,17,2,5
+EMP1076,56,Female,Single,R&D,Master,34,93500.0,50.0,17,3,5
+EMP1077,46,Male,Married,HR,High School,26,66500.0,49.0,12,6,4
+EMP1078,47,Male,Divorced,Sales,Master,22,69800.0,38.0,12,3,5
+EMP1079,32,Male,Single,R&D,Bachelor,10,67200.0,42.0,8,1,4
+EMP1080,59,Male,Single,R&D,Bachelor,37,86900.0,47.0,20,5,5
+EMP1081,23,Male,Divorced,Sales,High School,3,50400.0,44.0,5,3,3
+EMP1082,28,Male,Single,Finance,Bachelor,7,66900.0,30.0,3,1,4
+EMP1083,39,Female,Single,IT,High School,18,72200.0,38.0,10,2,4
+EMP1084,48,Male,Single,Sales,PhD,24,70200.0,,14,2,5
+EMP1085,55,Male,Married,Finance,Master,33,82000.0,41.0,14,1,5
+EMP1086,48,Female,Single,Operations,Bachelor,28,73400.0,36.0,13,6,5
+EMP1087,38,Male,Divorced,HR,Bachelor,18,59500.0,46.0,16,3,5
+EMP1088,64,Female,Married,Operations,PhD,37,84500.0,37.0,20,7,5
+EMP1089,45,Female,Married,HR,Bachelor,25,69200.0,,14,2,5
+EMP1090,46,Female,Single,Finance,Bachelor,24,76200.0,32.0,15,2,5
+EMP1091,28,Female,Married,Sales,Bachelor,7,49300.0,50.0,2,1,4
+EMP1092,27,Female,Married,Operations,PhD,3,60700.0,34.0,7,7,4
+EMP1093,45,Male,Married,Operations,High School,25,71100.0,42.0,10,6,5
+EMP1094,54,Male,Married,Sales,Bachelor,34,76500.0,34.0,14,3,5
+EMP1095,50,Male,Married,R&D,PhD,23,74500.0,35.0,20,5,5
+EMP1096,64,Female,Divorced,IT,Bachelor,42,89800.0,39.0,19,2,5
+EMP1097,43,Male,Married,HR,Bachelor,20,61300.0,44.0,8,4,4
+EMP1098,47,Female,Married,Finance,Bachelor,27,72100.0,43.0,15,1,5
+EMP1099,49,Female,Single,IT,Master,25,77400.0,41.0,14,0,5
+EMP1100,42,Female,Single,Operations,Bachelor,20,54100.0,51.0,10,5,4
+EMP1101,28,Male,Single,Finance,PhD,2,57300.0,52.0,8,3,4
+EMP1102,38,Male,Married,Operations,Master,16,61800.0,51.0,15,8,5
+EMP1103,41,Female,Married,IT,High School,22,86600.0,30.0,16,2,5
+EMP1104,62,Female,Married,HR,PhD,37,80000.0,40.0,16,4,5
+EMP1105,41,Male,Married,HR,Bachelor,18,56500.0,,9,2,4
+EMP1106,43,Male,Married,R&D,Bachelor,22,78500.0,42.0,13,1,5
+EMP1107,49,Female,Divorced,IT,Bachelor,29,88700.0,31.0,16,5,5
+EMP1108,61,Female,Single,Operations,Bachelor,39,80900.0,38.0,18,6,5
+EMP1109,28,Female,Married,Sales,High School,8,53200.0,38.0,6,1,4
+EMP1110,22,Female,Single,IT,High School,4,70400.0,44.0,7,2,3
+EMP1111,53,Female,Single,HR,Bachelor,31,72900.0,36.0,15,5,5
+EMP1112,34,Male,Single,Sales,Master,11,60200.0,48.0,8,1,4
+EMP1113,51,Male,Single,Finance,Bachelor,28,75800.0,41.0,10,3,5
+EMP1114,44,Male,Married,HR,PhD,20,68600.0,38.0,12,5,5
+EMP1115,40,Male,Married,IT,Bachelor,18,74800.0,45.0,10,2,4
+EMP1116,53,Female,Single,Sales,Bachelor,33,67900.0,30.0,15,2,5
+EMP1117,51,Female,Married,Operations,Bachelor,30,62400.0,34.0,12,5,5
+EMP1118,50,Female,Married,Finance,Bachelor,28,72400.0,39.0,14,2,5
+EMP1119,50,Male,Single,Sales,Bachelor,28,74700.0,44.0,13,3,5
+EMP1120,51,Female,Married,IT,Master,27,85500.0,43.0,18,2,5
+EMP1121,37,Female,Single,Finance,PhD,11,67800.0,36.0,7,4,4
+EMP1122,61,Female,Married,R&D,PhD,37,90100.0,39.0,12,3,5
+EMP1123,40,Female,Married,HR,Bachelor,19,56800.0,33.0,17,4,4
+EMP1124,39,Male,Single,IT,Master,16,73700.0,24.0,13,5,4
+EMP1125,22,Male,Single,R&D,Bachelor,0,58500.0,46.0,7,3,4
+EMP1126,35,Male,Married,Sales,Bachelor,15,60100.0,48.0,11,1,4
+EMP1127,23,Male,Divorced,Sales,Master,0,53100.0,49.0,3,1,4
+EMP1128,49,Male,Single,R&D,Master,27,84000.0,40.0,14,2,5
+EMP1129,51,Female,Married,Operations,Bachelor,31,69800.0,40.0,16,5,5
+EMP1130,59,Female,Married,HR,Bachelor,38,66900.0,31.0,15,5,5
+EMP1131,25,Female,Divorced,Sales,Bachelor,2,56000.0,50.0,5,2,3
+EMP1132,22,Female,Married,Sales,Master,0,50600.0,,8,1,3
+EMP1133,29,Male,Married,R&D,Bachelor,6,64200.0,26.0,8,7,3
+EMP1134,50,Female,Married,IT,PhD,24,95200.0,31.0,15,5,5
+EMP1135,60,Male,Married,R&D,High School,41,94300.0,36.0,17,2,5
+EMP1136,24,Male,Single,IT,Bachelor,2,67800.0,56.0,3,2,3
+EMP1137,53,Male,Single,HR,Bachelor,31,68800.0,43.0,18,2,5
+EMP1138,31,Male,Single,Sales,Bachelor,9,56100.0,41.0,4,2,4
+EMP1139,31,Male,Married,IT,Bachelor,11,74000.0,44.0,8,1,4
+EMP1140,40,Male,Married,HR,Master,18,62400.0,41.0,12,3,5
+EMP1141,55,Male,Single,Operations,Master,32,82200.0,43.0,15,4,5
+EMP1142,54,Female,Married,IT,PhD,29,103600.0,33.0,14,6,5
+EMP1143,44,Male,Married,Sales,Master,22,70100.0,48.0,12,6,5
+EMP1144,49,Male,Single,Sales,Master,27,61800.0,40.0,14,2,5
+EMP1145,53,Male,Divorced,Operations,Bachelor,31,66000.0,38.0,16,7,5
+EMP1146,28,Female,Single,R&D,Master,3,72500.0,37.0,6,1,4
+EMP1147,50,Male,Single,Sales,Bachelor,27,74200.0,31.0,14,3,5
+EMP1148,29,Male,Married,Sales,Bachelor,6,55900.0,26.0,10,5,4
+EMP1149,22,Male,Married,Sales,Bachelor,0,48200.0,46.0,3,2,3
+EMP1150,24,Male,Single,Operations,Bachelor,1,40900.0,68.0,5,4,3
+EMP1151,45,Male,Married,Sales,Bachelor,23,75800.0,33.0,10,0,5
+EMP1152,44,Male,Married,HR,PhD,19,59100.0,40.0,9,3,4
+EMP1153,29,Male,Single,Finance,Bachelor,9,64800.0,,10,5,4
+EMP1154,58,Male,Single,HR,High School,38,65900.0,36.0,16,2,5
+EMP1155,24,Male,Married,Sales,Bachelor,1,48700.0,58.0,4,4,3
+EMP1156,54,Female,Single,Operations,High School,36,77800.0,36.0,14,3,5
+EMP1157,49,Female,Divorced,Sales,Bachelor,27,69400.0,52.0,15,4,5
+EMP1158,29,Male,Married,Operations,Bachelor,6,49000.0,46.0,5,5,4
+EMP1159,55,Male,Divorced,IT,Bachelor,33,90500.0,51.0,18,5,5
+EMP1160,56,Female,Single,HR,Bachelor,36,66100.0,30.0,19,5,5
+EMP1161,53,Male,Divorced,Finance,Master,30,72400.0,46.0,18,0,5
+EMP1162,45,Male,Married,HR,Master,20,65600.0,33.0,12,1,5
+EMP1163,35,Female,Single,R&D,Bachelor,15,68900.0,42.0,12,3,4
+EMP1164,53,Male,Single,IT,Bachelor,33,93900.0,46.0,15,3,5
+EMP1165,64,Male,Single,IT,Bachelor,43,104000.0,45.0,20,6,5
+EMP1166,37,Male,Married,R&D,Master,13,77400.0,31.0,6,0,4
+EMP1167,25,Female,Married,Finance,High School,6,48700.0,37.0,7,4,4
+EMP1168,58,Male,Single,IT,High School,39,89700.0,32.0,16,5,5
+EMP1169,42,Female,Married,IT,Master,18,83100.0,38.0,13,1,5
+EMP1170,35,Female,Single,Finance,Bachelor,13,67200.0,42.0,9,5,4
+EMP1171,52,Male,Married,HR,Bachelor,30,79200.0,52.0,17,4,5
+EMP1172,39,Male,Single,R&D,Bachelor,19,69700.0,39.0,15,2,5
+EMP1173,28,Male,Married,IT,PhD,4,77000.0,48.0,7,7,4
+EMP1174,31,Male,Married,Sales,Master,6,57700.0,34.0,7,2,4
+EMP1175,28,Male,Married,Finance,Master,3,50200.0,31.0,8,2,3
+EMP1176,54,Female,Single,R&D,Bachelor,33,82700.0,36.0,12,2,5
+EMP1177,44,Female,Single,R&D,Bachelor,23,78700.0,38.0,10,2,5
+EMP1178,42,Female,Married,HR,PhD,15,51500.0,27.0,8,5,4
+EMP1179,40,Male,Single,IT,PhD,15,69600.0,40.0,16,3,5
+EMP1180,40,Female,Single,Sales,Bachelor,18,54600.0,36.0,10,0,4
+EMP1181,57,Female,Single,Finance,Master,35,85300.0,49.0,13,0,5
+EMP1182,50,Female,Married,Sales,Bachelor,27,68200.0,31.0,14,1,5
+EMP1183,39,Male,Married,Sales,Bachelor,19,61100.0,38.0,13,5,4
+EMP1184,23,Female,Married,HR,Master,0,43100.0,60.0,2,5,3
+EMP1185,22,Male,Single,Finance,Bachelor,2,48500.0,55.0,5,1,4
+EMP1186,26,Male,Single,R&D,PhD,0,60700.0,57.0,2,5,4
+EMP1187,41,Male,Married,R&D,High School,23,66300.0,47.0,8,3,5
+EMP1188,32,Female,Married,Sales,Bachelor,10,62900.0,35.0,9,5,3
+EMP1189,63,Female,Single,R&D,PhD,36,100300.0,48.0,16,5,5
+EMP1190,23,Male,Married,IT,PhD,0,56400.0,50.0,7,2,4
+EMP1191,24,Male,Single,IT,Bachelor,1,62500.0,56.0,7,4,4
+EMP1192,44,Male,Divorced,R&D,Bachelor,22,74600.0,33.0,13,1,5
+EMP1193,33,Male,Single,Finance,Master,11,63900.0,,9,2,4
+EMP1194,41,Male,Divorced,IT,Bachelor,18,83400.0,38.0,12,4,4
+EMP1195,26,Male,Married,Sales,PhD,2,52300.0,55.0,7,5,4
+EMP1196,58,Female,Married,Operations,PhD,32,75200.0,32.0,14,3,5
+EMP1197,59,Male,Single,IT,Bachelor,38,109300.0,47.0,20,1,5
+EMP1198,51,Male,Married,Sales,Bachelor,28,70800.0,35.0,13,1,5
+EMP1199,30,Male,Married,Sales,High School,10,63800.0,32.0,9,1,4
+EMP1200,55,Female,Single,IT,PhD,31,95300.0,44.0,17,1,5
+EMP1201,56,Female,Married,Finance,Bachelor,33,77600.0,47.0,15,2,5
+EMP1202,43,Female,Divorced,Sales,Bachelor,23,63800.0,55.0,13,2,5
+EMP1203,45,Male,Married,R&D,Bachelor,24,78200.0,47.0,10,5,5
+EMP1204,38,Female,Married,HR,Bachelor,15,50400.0,34.0,11,2,4
+EMP1205,31,Male,Single,Operations,High School,10,47700.0,39.0,7,7,4
+EMP1206,51,Female,Married,Operations,Bachelor,31,68700.0,30.0,13,6,5
+EMP1207,44,Female,Single,IT,PhD,17,83100.0,45.0,8,6,4
+EMP1208,53,Female,Married,R&D,PhD,27,93700.0,36.0,14,6,5
+EMP1209,38,Female,Divorced,Finance,Master,14,64800.0,42.0,7,6,4
+EMP1210,38,Female,Married,Finance,High School,19,69500.0,48.0,10,1,4
+EMP1211,35,Male,Single,HR,Bachelor,13,46300.0,51.0,7,2,4
+EMP1212,30,Female,Single,Sales,Master,7,61900.0,36.0,8,5,4
+EMP1213,61,Male,Married,IT,Bachelor,41,88200.0,31.0,20,5,5
+EMP1214,23,Male,Married,IT,PhD,0,72000.0,57.0,5,2,4
+EMP1215,46,Male,Married,HR,Master,23,64000.0,33.0,13,5,5
+EMP1216,60,Male,Married,Finance,High School,40,83400.0,54.0,17,4,5
+EMP1217,30,Male,Married,Sales,PhD,4,54700.0,36.0,4,3,4
+EMP1218,43,Male,Single,Finance,PhD,18,65900.0,29.0,15,2,5
+EMP1219,64,Male,Single,Operations,High School,45,73800.0,45.0,18,4,5
+EMP1220,25,Female,Single,Finance,Bachelor,5,62200.0,51.0,10,2,4
+EMP1221,47,Male,Single,IT,Bachelor,26,84900.0,48.0,12,2,5
+EMP1222,50,Male,Married,Finance,Bachelor,28,74900.0,37.0,17,3,5
+EMP1223,55,Female,Married,R&D,Bachelor,34,88400.0,47.0,14,6,5
+EMP1224,44,Male,Married,Operations,Bachelor,23,64900.0,,10,3,5
+EMP1225,58,Female,Single,Sales,PhD,33,75400.0,47.0,16,4,5
+EMP1226,32,Female,Single,R&D,Bachelor,12,80900.0,28.0,12,1,4
+EMP1227,27,Female,Single,R&D,High School,8,67100.0,41.0,5,2,3
+EMP1228,39,Female,Single,HR,Master,14,57800.0,41.0,8,4,4
+EMP1229,42,Male,Married,Operations,Bachelor,19,58600.0,36.0,14,4,4
+EMP1230,63,Female,Single,HR,Master,38,81200.0,37.0,15,2,5
+EMP1231,57,Male,Married,Operations,Bachelor,35,70100.0,41.0,14,8,5
+EMP1232,62,Male,Single,Finance,Bachelor,40,81600.0,41.0,15,4,5
+EMP1233,59,Female,Married,R&D,Bachelor,38,97900.0,48.0,19,1,5
+EMP1234,55,Male,Married,Operations,Master,30,72200.0,34.0,12,3,5
+EMP1235,38,Female,Single,Sales,Bachelor,18,59600.0,37.0,12,3,5
+EMP1236,58,Female,Married,Sales,Master,33,77400.0,39.0,16,3,5
+EMP1237,46,Female,Married,Finance,Bachelor,23,76700.0,30.0,13,3,5
+EMP1238,59,Female,Divorced,R&D,Bachelor,37,91700.0,33.0,14,4,5
+EMP1239,33,Male,Single,Sales,Bachelor,11,62700.0,37.0,13,0,4
+EMP1240,44,Male,Married,Finance,PhD,20,67800.0,45.0,9,3,5
+EMP1241,63,Female,Divorced,Finance,PhD,37,92300.0,40.0,18,3,5
+EMP1242,43,Male,Divorced,HR,Bachelor,23,61500.0,39.0,12,2,5
+EMP1243,42,Female,Married,IT,Bachelor,20,80400.0,41.0,13,5,5
+EMP1244,48,Female,Married,Finance,Bachelor,25,80000.0,46.0,14,2,5
+EMP1245,52,Female,Married,IT,Bachelor,29,90700.0,39.0,16,4,5
+EMP1246,27,Male,Married,Sales,Bachelor,7,56400.0,37.0,6,3,4
+EMP1247,48,Male,Married,Finance,PhD,24,67300.0,38.0,15,1,5
+EMP1248,61,Male,Married,IT,PhD,35,95800.0,56.0,13,1,5
+EMP1249,55,Male,Married,Finance,Bachelor,33,76500.0,,17,3,5
+EMP1250,33,Female,Married,Operations,Bachelor,13,60000.0,41.0,11,3,4
+EMP1251,28,Male,Married,R&D,Master,6,70800.0,45.0,7,3,4
+EMP1252,31,Male,Single,Sales,Master,6,54300.0,42.0,6,7,4
+EMP1253,38,Male,Married,HR,High School,17,52300.0,34.0,10,2,4
+EMP1254,47,Female,Married,R&D,Bachelor,27,88400.0,36.0,11,4,5
+EMP1255,42,Female,Married,IT,Bachelor,19,76200.0,41.0,14,2,4
+EMP1256,49,Male,Married,Sales,Bachelor,28,65400.0,41.0,14,2,5
+EMP1257,23,Male,Single,IT,Bachelor,1,60600.0,50.0,6,2,3
+EMP1258,64,Male,Divorced,IT,High School,43,93600.0,48.0,19,1,5
+EMP1259,22,Male,Single,Sales,Master,0,46700.0,48.0,6,2,3
+EMP1260,57,Female,Married,R&D,Bachelor,37,92800.0,48.0,20,4,5
+EMP1261,47,Female,Married,IT,High School,26,71800.0,43.0,15,2,5
+EMP1262,50,Male,Married,IT,Bachelor,30,83600.0,46.0,10,2,5
+EMP1263,42,Male,Single,HR,Master,18,60200.0,47.0,10,0,5
+EMP1264,32,Female,Married,R&D,Master,10,70100.0,36.0,10,1,4
+EMP1265,61,Male,Single,Finance,Bachelor,40,94500.0,33.0,20,3,5
+EMP1266,32,Female,Single,Operations,Bachelor,12,63300.0,44.0,6,6,4
+EMP1267,57,Male,Single,R&D,PhD,32,80600.0,29.0,13,3,5
+EMP1268,60,Male,Single,Operations,Bachelor,37,66100.0,46.0,20,6,5
+EMP1269,61,Male,Divorced,Sales,Bachelor,38,79500.0,45.0,19,3,5
+EMP1270,56,Male,Divorced,Sales,Bachelor,35,73600.0,39.0,19,7,5
+EMP1271,55,Female,Single,R&D,Bachelor,33,79400.0,,15,1,5
+EMP1272,45,Male,Married,R&D,Bachelor,23,77500.0,39.0,9,3,5
+EMP1273,43,Male,Single,R&D,PhD,17,77800.0,35.0,11,0,5
+EMP1274,26,Male,Married,HR,Master,1,42600.0,46.0,2,3,4
+EMP1275,54,Male,Married,R&D,Bachelor,31,80700.0,37.0,14,4,5
+EMP1276,57,Male,Divorced,Sales,PhD,31,74000.0,42.0,19,2,5
+EMP1277,41,Male,Married,R&D,High School,23,73300.0,48.0,11,1,5
+EMP1278,40,Female,Married,IT,Bachelor,18,81100.0,33.0,9,3,4
+EMP1279,56,Male,Single,HR,Bachelor,36,67400.0,43.0,16,5,5
+EMP1280,64,Male,Divorced,HR,Master,40,74800.0,,15,6,5
+EMP1281,38,Female,Single,Finance,High School,20,66000.0,40.0,13,4,4
+EMP1282,64,Male,Married,IT,Bachelor,41,96800.0,43.0,20,0,5
+EMP1283,55,Female,Married,Sales,Master,31,77200.0,36.0,12,4,5
+EMP1284,30,Male,Married,Operations,Master,6,63000.0,29.0,6,4,4
+EMP1285,47,Female,Single,Operations,Master,24,70100.0,32.0,12,4,5
+EMP1286,23,Female,Divorced,Finance,Bachelor,1,57800.0,57.0,5,2,3
+EMP1287,30,Female,Single,Sales,High School,12,55300.0,35.0,10,3,4
+EMP1288,30,Female,Married,Operations,Bachelor,9,48300.0,42.0,9,5,3
+EMP1289,61,Male,Single,Sales,Bachelor,39,77600.0,45.0,20,4,5
+EMP1290,38,Female,Single,Finance,PhD,12,64000.0,37.0,8,1,4
+EMP1291,22,Male,Married,Operations,Bachelor,0,48000.0,64.0,1,3,3
+EMP1292,46,Male,Married,Sales,Bachelor,25,60700.0,43.0,12,2,5
+EMP1293,64,Male,Single,Operations,Master,42,84600.0,42.0,20,5,5
+EMP1294,61,Male,Single,Sales,Bachelor,39,79600.0,31.0,16,3,5
+EMP1295,63,Male,Married,Operations,Bachelor,40,81700.0,49.0,17,7,5
+EMP1296,46,Female,Married,HR,Master,22,60000.0,38.0,8,3,5
+EMP1297,60,Male,Married,Sales,Master,37,76100.0,44.0,19,0,5
+EMP1298,56,Female,Single,Sales,Master,34,76200.0,42.0,13,5,5
+EMP1299,24,Female,Single,IT,High School,3,62200.0,39.0,10,1,4
+EMP1300,58,Male,Single,Sales,Bachelor,36,81800.0,,18,2,5
+EMP1301,51,Male,Single,Sales,Master,29,78200.0,42.0,14,5,5
+EMP1302,59,Male,Married,R&D,Bachelor,37,98100.0,39.0,20,4,5
+EMP1303,55,Male,Married,Finance,Bachelor,33,77900.0,33.0,18,1,5
+EMP1304,33,Male,Single,Finance,Master,10,47300.0,43.0,8,4,4
+EMP1305,40,Male,Single,Sales,High School,21,61800.0,46.0,11,10,4
+EMP1306,58,Male,Single,R&D,Master,34,89400.0,45.0,20,3,5
+EMP1307,38,Female,Married,Sales,Bachelor,15,64600.0,41.0,9,3,4
+EMP1308,31,Female,Divorced,Sales,Bachelor,10,58500.0,35.0,6,7,3
+EMP1309,33,Male,Single,HR,High School,14,50700.0,39.0,5,4,4
+EMP1310,37,Female,Single,Operations,Master,14,67800.0,43.0,11,4,4
+EMP1311,45,Male,Married,Sales,Bachelor,24,63000.0,37.0,13,5,5
+EMP1312,40,Male,Divorced,R&D,Bachelor,20,73600.0,29.0,13,3,5
+EMP1313,29,Female,Married,R&D,Master,5,59600.0,40.0,6,2,4
+EMP1314,52,Male,Single,IT,Master,30,90100.0,40.0,12,5,5
+EMP1315,42,Male,Single,IT,PhD,18,90300.0,29.0,11,3,5
+EMP1316,38,Female,Married,Operations,Bachelor,16,58100.0,35.0,14,7,4
+EMP1317,44,Female,Single,Sales,Bachelor,23,66700.0,34.0,18,4,5
+EMP1318,58,Female,Single,Sales,PhD,31,69300.0,50.0,16,2,5
+EMP1319,37,Female,Married,R&D,Master,14,70800.0,51.0,10,3,4
+EMP1320,27,Female,Single,R&D,Bachelor,6,69600.0,31.0,5,2,4
+EMP1321,29,Male,Married,Finance,Bachelor,8,59100.0,30.0,10,4,4
+EMP1322,46,Male,Single,Operations,Master,23,64800.0,41.0,10,5,5
+EMP1323,39,Male,Single,IT,Bachelor,16,82300.0,42.0,13,2,4
+EMP1324,46,Male,Married,Operations,Master,24,65600.0,41.0,15,5,5
+EMP1325,33,Male,Single,R&D,Bachelor,10,73500.0,38.0,9,2,4
+EMP1326,36,Male,Divorced,Operations,Bachelor,14,50800.0,30.0,10,5,4
+EMP1327,47,Female,Married,R&D,Master,24,83600.0,38.0,11,2,5
+EMP1328,62,Female,Single,Sales,High School,41,88000.0,37.0,20,3,5
+EMP1329,47,Female,Married,Operations,Bachelor,25,71000.0,44.0,12,6,5
+EMP1330,53,Male,Single,Sales,Bachelor,30,63700.0,38.0,14,2,5
+EMP1331,31,Female,Divorced,HR,Bachelor,10,48800.0,,13,0,4
+EMP1332,37,Male,Single,R&D,Master,14,71000.0,38.0,10,0,4
+EMP1333,28,Female,Married,Operations,Master,4,56200.0,38.0,3,3,3
+EMP1334,38,Male,Single,Operations,Master,13,51700.0,45.0,8,4,4
+EMP1335,44,Female,Married,R&D,High School,25,71900.0,36.0,11,1,5
+EMP1336,47,Male,Married,Operations,Bachelor,25,58000.0,39.0,17,3,5
+EMP1337,42,Female,Married,R&D,Bachelor,19,70100.0,49.0,12,4,5
+EMP1338,43,Female,Single,HR,PhD,16,54500.0,42.0,8,0,5
+EMP1339,28,Male,Single,Operations,Master,4,59200.0,38.0,8,5,4
+EMP1340,35,Male,Married,Operations,Master,10,52800.0,42.0,8,5,4
+EMP1341,36,Female,Divorced,IT,Bachelor,13,77900.0,,11,1,4
+EMP1342,28,Male,Single,Sales,Bachelor,7,54700.0,36.0,9,2,4
+EMP1343,30,Female,Married,Operations,Bachelor,9,53200.0,56.0,5,4,4
+EMP1344,29,Female,Single,Finance,Bachelor,8,57400.0,44.0,9,0,4
+EMP1345,44,Male,Married,IT,High School,24,85100.0,43.0,11,3,5
+EMP1346,50,Male,Single,Sales,PhD,26,74600.0,36.0,15,3,5
+EMP1347,39,Male,Single,Operations,Bachelor,16,59300.0,34.0,10,5,4
+EMP1348,52,Female,Married,Finance,Bachelor,30,75000.0,33.0,18,3,5
+EMP1349,51,Male,Single,R&D,High School,33,81300.0,,14,1,5
+EMP1350,60,Male,Married,HR,PhD,36,79700.0,42.0,19,3,5
+EMP1351,56,Male,Married,R&D,Bachelor,34,87400.0,,15,4,5
+EMP1352,39,Female,Single,Finance,Master,17,70200.0,34.0,8,2,4
+EMP1353,63,Female,Single,IT,PhD,38,94600.0,55.0,15,2,5
+EMP1354,60,Female,Married,Finance,Bachelor,38,94100.0,31.0,14,7,5
+EMP1355,38,Male,Single,Finance,Master,13,64000.0,40.0,13,1,5
+EMP1356,35,Female,Married,Finance,High School,16,64600.0,32.0,15,10,4
+EMP1357,52,Female,Married,Sales,Bachelor,29,71300.0,37.0,16,1,5
+EMP1358,45,Female,Married,Sales,Master,23,79200.0,43.0,14,0,5
+EMP1359,56,Female,Single,HR,Master,33,70900.0,46.0,15,3,5
+EMP1360,55,Male,Single,R&D,Bachelor,32,82700.0,46.0,14,3,5
+EMP1361,24,Male,Single,Sales,Bachelor,2,51200.0,49.0,5,3,4
+EMP1362,58,Female,Single,Finance,Bachelor,38,80900.0,48.0,15,3,5
+EMP1363,64,Male,Married,R&D,High School,43,92000.0,37.0,20,4,5
+EMP1364,61,Female,Married,R&D,Bachelor,41,103700.0,34.0,17,1,5
+EMP1365,47,Female,Single,HR,Bachelor,24,64700.0,45.0,12,3,5
+EMP1366,44,Male,Single,Sales,Bachelor,22,67900.0,39.0,11,5,4
+EMP1367,60,Female,Single,IT,Master,37,92000.0,37.0,20,2,5
+EMP1368,36,Male,Married,IT,Bachelor,13,82900.0,26.0,9,3,4
+EMP1369,25,Male,Single,Operations,Bachelor,5,59700.0,37.0,4,4,4
+EMP1370,50,Female,Married,Sales,Bachelor,28,75700.0,47.0,20,1,5
+EMP1371,43,Female,Single,Operations,Master,20,67300.0,38.0,13,4,5
+EMP1372,46,Male,Married,Operations,Bachelor,26,65600.0,36.0,13,7,5
+EMP1373,34,Male,Married,Operations,High School,14,57200.0,45.0,10,5,3
+EMP1374,39,Female,Single,Sales,Bachelor,19,60000.0,44.0,8,1,5
+EMP1375,54,Female,Single,Finance,Master,30,74400.0,50.0,11,1,5
+EMP1376,37,Female,Married,Operations,Bachelor,16,51400.0,41.0,8,7,4
+EMP1377,63,Male,Single,Finance,Master,40,90100.0,40.0,18,2,5
+EMP1378,23,Male,Married,Finance,PhD,0,51100.0,49.0,7,3,4
+EMP1379,56,Male,Married,HR,Master,32,69100.0,,13,5,5
+EMP1380,63,Female,Married,Finance,Master,38,86100.0,35.0,16,0,5
+EMP1381,55,Male,Married,Sales,Bachelor,34,81200.0,53.0,13,5,5
+EMP1382,51,Male,Single,Finance,High School,30,73100.0,48.0,15,3,5
+EMP1383,34,Female,Single,Sales,PhD,7,64200.0,37.0,4,1,4
+EMP1384,34,Male,Married,HR,Bachelor,14,59900.0,33.0,9,2,4
+EMP1385,39,Female,Single,R&D,Bachelor,19,68800.0,,13,3,4
+EMP1386,53,Female,Married,Finance,Master,31,86400.0,40.0,13,4,5
+EMP1387,53,Female,Single,Sales,Bachelor,31,72400.0,28.0,16,4,5
+EMP1388,56,Male,Single,Operations,Bachelor,35,71500.0,49.0,14,5,5
+EMP1389,60,Male,Divorced,Operations,Bachelor,39,75800.0,60.0,20,4,5
+EMP1390,50,Female,Single,Sales,Bachelor,27,70600.0,30.0,14,1,5
+EMP1391,50,Female,Divorced,Sales,Master,28,71300.0,,12,6,5
+EMP1392,37,Female,Divorced,Sales,Bachelor,15,56800.0,39.0,12,5,4
+EMP1393,31,Male,Married,IT,Bachelor,10,68200.0,39.0,6,0,4
+EMP1394,51,Female,Married,Finance,Bachelor,29,77900.0,47.0,14,1,5
+EMP1395,46,Female,Married,HR,Master,24,64400.0,42.0,12,3,5
+EMP1396,60,Female,Married,Sales,Master,38,84000.0,41.0,19,5,5
+EMP1397,41,Female,Single,Finance,Bachelor,20,70300.0,55.0,10,1,5
+EMP1398,26,Female,Married,IT,Master,1,67200.0,,4,3,3
+EMP1399,22,Female,Married,Operations,Bachelor,0,49000.0,50.0,3,7,3
+EMP1400,51,Male,Married,Finance,PhD,27,86700.0,42.0,15,1,5
+EMP1401,24,Male,Married,Sales,Bachelor,4,59500.0,35.0,11,3,4
+EMP1402,35,Male,Single,Sales,Master,10,65700.0,36.0,6,2,4
+EMP1403,51,Male,Married,Sales,High School,33,77800.0,46.0,16,5,5
+EMP1404,25,Male,Married,R&D,Bachelor,4,72600.0,47.0,5,4,3
+EMP1405,39,Male,Single,Sales,Bachelor,18,65600.0,32.0,11,1,4
+EMP1406,58,Male,Divorced,R&D,Master,34,89800.0,39.0,13,6,5
+EMP1407,46,Male,Married,R&D,Bachelor,23,88600.0,36.0,10,2,5
+EMP1408,22,Female,Married,IT,PhD,0,54400.0,61.0,4,2,4
+EMP1409,36,Female,Married,Finance,Bachelor,14,64100.0,35.0,10,4,4
+EMP1410,30,Male,Married,Operations,Bachelor,9,59500.0,32.0,10,3,4
+EMP1411,36,Female,Single,Operations,Bachelor,13,61300.0,42.0,8,5,4
+EMP1412,45,Male,Married,Sales,Master,22,81400.0,43.0,14,3,5
+EMP1413,25,Male,Single,Operations,Bachelor,5,50500.0,37.0,5,5,4
+EMP1414,33,Male,Married,R&D,Master,9,66000.0,37.0,8,3,4
+EMP1415,58,Male,Divorced,Finance,PhD,34,83500.0,38.0,17,4,5
+EMP1416,58,Female,Single,R&D,PhD,34,91800.0,30.0,20,4,5
+EMP1417,64,Female,Single,IT,Bachelor,41,104900.0,48.0,16,3,5
+EMP1418,27,Male,Married,R&D,Master,2,70800.0,43.0,9,3,3
+EMP1419,60,Male,Single,R&D,Master,38,91100.0,34.0,18,4,5
+EMP1420,45,Male,Married,IT,Bachelor,22,82900.0,28.0,9,3,5
+EMP1421,32,Male,Single,Sales,Master,8,54300.0,34.0,11,2,4
+EMP1422,34,Male,Single,Operations,High School,14,52700.0,32.0,8,5,4
+EMP1423,55,Male,Divorced,Operations,Bachelor,35,79200.0,41.0,16,5,5
+EMP1424,46,Female,Married,Operations,Bachelor,24,73200.0,47.0,13,4,5
+EMP1425,28,Female,Married,IT,Bachelor,8,66900.0,43.0,6,3,4
+EMP1426,25,Male,Single,IT,Bachelor,3,67600.0,55.0,4,3,3
+EMP1427,29,Female,Married,Sales,Bachelor,8,54200.0,48.0,7,4,4
+EMP1428,41,Male,Married,Operations,Master,19,67500.0,40.0,10,9,4
+EMP1429,50,Male,Married,Finance,High School,30,74100.0,39.0,13,3,5
+EMP1430,31,Male,Married,Finance,Bachelor,10,52400.0,42.0,8,4,4
+EMP1431,64,Female,Married,Sales,Bachelor,44,89200.0,,20,3,5
+EMP1432,55,Female,Married,Operations,Bachelor,33,70900.0,38.0,20,6,5
+EMP1433,47,Female,Single,IT,Master,23,83400.0,42.0,10,4,5
+EMP1434,62,Male,Married,IT,Bachelor,41,99000.0,33.0,18,2,5
+EMP1435,24,Female,Single,HR,Master,0,47800.0,58.0,7,3,4
+EMP1436,27,Male,Married,Sales,Bachelor,4,54500.0,36.0,6,3,3
+EMP1437,26,Female,Single,R&D,Master,3,55300.0,41.0,3,1,3
+EMP1438,26,Male,Married,Operations,Bachelor,5,52800.0,44.0,6,3,4
+EMP1439,44,Male,Married,Operations,Bachelor,24,55700.0,30.0,15,4,5
+EMP1440,30,Female,Single,HR,Master,5,53800.0,39.0,9,2,4
+EMP1441,56,Female,Single,Sales,High School,38,83000.0,34.0,14,4,5
+EMP1442,41,Male,Single,HR,Master,17,52800.0,30.0,8,2,5
+EMP1443,63,Female,Married,HR,Master,40,79600.0,43.0,19,2,5
+EMP1444,56,Male,Married,IT,Bachelor,36,98100.0,48.0,15,3,5
+EMP1445,39,Female,Single,Finance,High School,20,65800.0,32.0,12,2,5
+EMP1446,38,Female,Married,R&D,High School,20,76400.0,43.0,16,1,5
+EMP1447,45,Female,Single,Finance,PhD,19,59300.0,41.0,8,3,5
+EMP1448,24,Female,Married,Sales,Master,0,56500.0,58.0,6,2,3
+EMP1449,53,Male,Divorced,IT,Bachelor,30,88100.0,42.0,15,2,5
+EMP1450,56,Male,Single,R&D,Bachelor,33,84100.0,35.0,14,2,5
+EMP1451,59,Female,Married,HR,Bachelor,37,78500.0,50.0,16,5,5
+EMP1452,34,Male,Single,R&D,Master,12,79200.0,46.0,9,2,4
+EMP1453,46,Male,Single,Operations,High School,27,68000.0,27.0,14,4,5
+EMP1454,30,Male,Single,Operations,Bachelor,8,60400.0,46.0,11,5,4
+EMP1455,25,Male,Single,Operations,Master,1,41000.0,46.0,6,5,3
+EMP1456,35,Female,Married,R&D,High School,17,73900.0,37.0,9,4,4
+EMP1457,58,Male,Married,R&D,Bachelor,36,87100.0,41.0,15,3,5
+EMP1458,55,Female,Married,Sales,PhD,29,72300.0,50.0,13,4,5
+EMP1459,32,Male,Single,Operations,Master,10,46400.0,47.0,5,5,4
+EMP1460,62,Male,Single,Sales,Bachelor,40,84100.0,35.0,18,1,5
+EMP1461,24,Male,Married,Finance,High School,3,58800.0,43.0,5,3,3
+EMP1462,49,Male,Divorced,IT,High School,28,91100.0,39.0,11,3,5
+EMP1463,50,Male,Single,IT,Bachelor,27,91500.0,39.0,14,1,5
+EMP1464,30,Female,Married,HR,Master,5,46100.0,41.0,12,3,4
+EMP1465,24,Male,Married,HR,Bachelor,2,52100.0,54.0,4,2,3
+EMP1466,46,Female,Married,Sales,Master,23,76400.0,38.0,13,0,5
+EMP1467,55,Male,Married,Operations,PhD,28,71100.0,39.0,11,2,5
+EMP1468,33,Male,Single,Operations,Bachelor,10,54100.0,49.0,7,4,4
+EMP1469,63,Female,Single,Sales,Bachelor,41,77100.0,49.0,20,4,5
+EMP1470,30,Male,Married,HR,Bachelor,8,57800.0,36.0,4,2,4
+EMP1471,36,Male,Single,Operations,PhD,12,52000.0,43.0,9,6,4
+EMP1472,61,Male,Divorced,IT,Master,36,97500.0,32.0,16,1,5
+EMP1473,46,Male,Married,Sales,High School,28,66400.0,42.0,14,3,5
+EMP1474,26,Female,Single,Finance,Master,1,51300.0,49.0,3,3,4
+EMP1475,32,Male,Married,Sales,Bachelor,11,48400.0,35.0,7,0,4
+EMP1476,55,Female,Single,Sales,PhD,29,75100.0,50.0,14,1,5
+EMP1477,45,Female,Married,IT,Bachelor,23,76100.0,45.0,14,4,5
+EMP1478,36,Male,Married,Operations,Bachelor,16,59100.0,20.0,11,5,4
+EMP1479,59,Female,Divorced,Operations,Master,37,86400.0,41.0,17,3,5
+EMP1480,29,Male,Married,Sales,Bachelor,7,55600.0,34.0,9,1,4
+EMP1481,26,Female,Married,Operations,Bachelor,4,59200.0,46.0,6,6,3
+EMP1482,47,Male,Married,HR,High School,27,58700.0,45.0,18,3,5
+EMP1483,39,Female,Divorced,R&D,Bachelor,16,65400.0,43.0,10,6,4
+EMP1484,27,Male,Single,Finance,Bachelor,4,52100.0,,6,5,3
+EMP1485,58,Male,Single,Sales,PhD,33,79100.0,34.0,19,3,5
+EMP1486,34,Female,Single,Operations,Bachelor,11,68400.0,51.0,7,5,4
+EMP1487,49,Female,Single,Finance,Bachelor,27,67300.0,33.0,11,2,5
+EMP1488,26,Male,Married,Sales,Master,1,54900.0,54.0,5,2,4
+EMP1489,34,Male,Married,Sales,Bachelor,14,56700.0,35.0,7,1,4
+EMP1490,38,Female,Married,Sales,Bachelor,16,60700.0,46.0,7,0,4
+EMP1491,61,Female,Single,Sales,Master,36,73500.0,42.0,17,6,5
+EMP1492,53,Female,Married,Finance,Master,29,83600.0,,17,1,5
+EMP1493,50,Female,Single,Operations,Master,28,70200.0,37.0,12,6,5
+EMP1494,24,Female,Married,Sales,Master,2,58000.0,60.0,4,4,4
+EMP1495,61,Female,Married,Sales,Bachelor,38,80300.0,30.0,20,1,5
+EMP1496,55,Male,Single,Finance,PhD,29,71500.0,30.0,13,5,5
+EMP1497,61,Male,Single,Operations,Bachelor,40,83500.0,26.0,20,4,5
+EMP1498,48,Female,Single,R&D,Master,26,71700.0,,9,4,5
+EMP1499,34,Female,Married,R&D,Bachelor,13,60100.0,,7,1,4
+EMP1500,54,Male,Divorced,Finance,PhD,27,75000.0,35.0,11,3,5
